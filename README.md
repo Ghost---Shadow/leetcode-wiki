@@ -29,3 +29,17 @@ Get-ChildItem questions -Directory | ForEach-Object { python "$($_.FullName)\tes
 ```
 
 Adding a new solution file (e.g. `optimal.py`) to a problem's directory is picked up automatically by that directory's `test_solutions.py` — no changes needed to the test file itself.
+
+## Inverted index
+
+`solutions/` inverts the mapping: each technique directory holds one general algorithm (`algorithm.py`), per-question I/O reshapers (`questions/<id>.py`), and its own `test_solutions.py`. All techniques are instantiations of a single meta-engine in `solutions/_meta/algorithm.py` — see [solutions/README.md](solutions/README.md) for the taxonomy.
+
+```bash
+for d in solutions/*/; do [ -f "$d/test_solutions.py" ] && python "$d/test_solutions.py"; done
+```
+
+Recompute `solutions/inverted_index.json` with:
+
+```bash
+python solutions/build_index.py
+```

@@ -1,3 +1,14 @@
+import importlib.util
+import os
+
+_here = os.path.dirname(os.path.abspath(__file__))
+_spec = importlib.util.spec_from_file_location(
+    "meta_algorithm", os.path.join(_here, "..", "_meta", "algorithm.py"))
+_meta = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(_meta)
+explore = _meta.explore
+
+
 def generate_all(initial_state, expand):
     """Generic backtracking/DFS search shared by every problem that explores
     a space of partial solutions and collects the complete ones.
@@ -7,17 +18,19 @@ def generate_all(initial_state, expand):
     for a yielded state, that state is captured as one finished solution
     instead of being expanded further.
 
-    Walked via an explicit stack (no Python recursion), so this is the one
-    engine every backtracking-shaped problem below plugs its own state shape
-    and branching rules into via `expand`.
+    Instantiation of the shared _meta explore() engine: LIFO (depth-first)
+    discipline over (payload, is_complete) states; complete states are
+    leaves (transition returns nothing for them); the fold collects the
+    payloads of every complete state that leaves the frontier.
     """
+    def transition(meta_state):
+        payload, complete = meta_state
+        if complete:
+            return ()
+        return expand(payload)
+
     results = []
-    stack = [initial_state]
-    while stack:
-        state = stack.pop()
-        for next_state, is_complete in expand(state):
-            if is_complete:
-                results.append(next_state)
-            else:
-                stack.append(next_state)
+    for payload, complete in explore([(initial_state, False)], transition, order="lifo"):
+        if complete:
+            results.append(payload)
     return results
