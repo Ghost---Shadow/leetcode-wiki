@@ -1,0 +1,8 @@
+Rank: 54
+Title: Rotate Image
+Difficulty: MEDIUM
+CompanyCount: 34
+TotalFrequency: 2048.0
+Link: https://leetcode.com/problems/rotate-image
+Topics: Array, Math, Matrix
+Companies: Accenture, Adobe, Amazon, Anduril, Apple, Bloomberg, Capital One, Cisco, Citigroup, Flipkart, Goldman Sachs, Google, IBM, Infosys, Intel, Mastercard, Meta, Microsoft, Nutanix, Nvidia, Oracle, PayPal, Qualcomm, Rakuten, Roblox, SIG, Samsung, Tesla, TikTok, Uber, Visa, Zillow, Zoho, tcs

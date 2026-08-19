@@ -1,0 +1,8 @@
+Rank: 53
+Title: Merge Sorted Array
+Difficulty: EASY
+CompanyCount: 34
+TotalFrequency: 2075.5
+Link: https://leetcode.com/problems/merge-sorted-array
+Topics: Array, Two Pointers, Sorting
+Companies: AMD, Accenture, Amazon, Apple, Avito, Bloomberg, Cisco, Cognizant, DE Shaw, EPAM Systems, Goldman Sachs, Google, HCL, Hubspot, IBM, Infosys, LinkedIn, Meta, Microsoft, Nvidia, Oracle, Palo Alto Networks, Qualcomm, Samsung, Squarespace, Swiggy, TikTok, Verkada, Visa, Wipro, Yandex, Zoho, persistent systems, tcs

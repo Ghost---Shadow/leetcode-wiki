@@ -1,0 +1,8 @@
+Rank: 65
+Title: Largest Rectangle in Histogram
+Difficulty: HARD
+CompanyCount: 29
+TotalFrequency: 1461.8
+Link: https://leetcode.com/problems/largest-rectangle-in-histogram
+Topics: Array, Stack, Monotonic Stack, Range Minimum/Maximum Query
+Companies: Accenture, Adobe, Amazon, Apple, BitGo, Bloomberg, Capital One, Cisco, Coupang, DoorDash, Flipkart, Goldman Sachs, Google, Infosys, LinkedIn, Meta, Microsoft, Myntra, Oracle, Roblox, Salesforce, TikTok, Uber, Visa, Walmart Labs, Waymo, josh technology, tcs, thoughtspot

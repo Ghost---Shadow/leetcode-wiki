@@ -1,0 +1,8 @@
+Rank: 58
+Title: Next Permutation
+Difficulty: MEDIUM
+CompanyCount: 31
+TotalFrequency: 1750.2
+Link: https://leetcode.com/problems/next-permutation
+Topics: Array, Two Pointers
+Companies: Accenture, Adobe, Airtel, Amazon, Atlassian, Bloomberg, Citadel, Cognizant, Deloitte, DoorDash, Flipkart, Goldman Sachs, Google, HashedIn, IBM, Infosys, Intuit, Meesho, Meta, Microsoft, Mitsogo, Nike, Oracle, PornHub, Rubrik, Samsung, ServiceNow, TikTok, Uber, Walmart Labs, tcs

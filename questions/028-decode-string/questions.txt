@@ -1,0 +1,8 @@
+Rank: 28
+Title: Decode String
+Difficulty: MEDIUM
+CompanyCount: 40
+TotalFrequency: 2662.0
+Link: https://leetcode.com/problems/decode-string
+Topics: String, Stack, Recursion
+Companies: Activision, Agoda, Amazon, Apple, Arista Networks, Bloomberg, ByteDance, Cisco, Compass, Coupang, Flexport, Goldman Sachs, Google, HashedIn, Huawei, Meta, Microsoft, Moloco, Nutanix, Nvidia, Oracle, Ozon, Palo Alto Networks, PayPal, PhonePe, Roku, Salesforce, Snowflake, Tencent, TikTok, Tinkoff, Walmart Labs, Wix, Yahoo, Yelp, Zoho, Zopsmart, eBay, razorpay, tcs

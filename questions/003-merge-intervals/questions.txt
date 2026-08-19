@@ -1,0 +1,8 @@
+Rank: 3
+Title: Merge Intervals
+Difficulty: MEDIUM
+CompanyCount: 101
+TotalFrequency: 7276.2
+Link: https://leetcode.com/problems/merge-intervals
+Topics: Array, Sorting, Quicksort
+Companies: AMD, Accenture, Adobe, Amazon, American Express, Anduril, Apple, Applied Intuition, Atlassian, Autodesk, Bloomberg, ByteDance, Capital One, Chewy, Cisco, Citadel, Coupang, CrowdStrike, Darwinbox, Databricks, Deloitte, Disney, Docusign, DoorDash, Dropbox, EPAM Systems, EarnIn, Expedia, Flipkart, Geico, General Motors, GoDaddy, Goldman Sachs, Google, Grammarly, Grubhub, Hubspot, IBM, IXL, Infosys, Intuit, Juspay, LinkedIn, MakeMyTrip, Meta, Microsoft, Millennium, MongoDB, Morgan Stanley, Moveworks, Netflix, Nextdoor, Nutanix, Nvidia, Okta, Oracle, Ozon, Palo Alto Networks, Patreon, PayPal, PhonePe, Pinterest, Remitly, Ripple, Rippling, Roblox, SAP, Salesforce, Samsung, ServiceNow, Siemens, Sigmoid, Snap, Squarespace, Stripe, Swiggy, Tesco, Tesla, TikTok, Turing, Twitch, Uber, VK, Verkada, Visa, Walmart Labs, Wells Fargo, Wipro, Wix, X, Yandex, Yelp, Zalando, Zepto, Zeta, Zoho, Zomato, athenahealth, eBay, razorpay, tcs

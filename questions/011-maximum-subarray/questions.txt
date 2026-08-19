@@ -1,0 +1,8 @@
+Rank: 11
+Title: Maximum Subarray
+Difficulty: MEDIUM
+CompanyCount: 59
+TotalFrequency: 3777.2
+Link: https://leetcode.com/problems/maximum-subarray
+Topics: Array, Divide and Conquer, Dynamic Programming
+Companies: Accenture, Accolite, Amazon, Apple, Arista Networks, Atlassian, Autodesk, Bloomberg, ByteDance, Cisco, Citadel, Cognizant, Coupang, Criteo, Dell, Deloitte, EPAM Systems, Goldman Sachs, Google, HCL, Huawei, IBM, Infosys, Intel, LinkedIn, Media.net, Meesho, Meta, Microsoft, Morgan Stanley, Nike, Nvidia, Oracle, PayPal, PhonePe, SAP, Salesforce, Samsung, ServiceNow, Squarepoint Capital, Swiggy, Target, Tech Mahindra, Tekion, Tesla, TikTok, Turing, Uber, Upstart, Vimeo, Visa, Walmart Labs, Wells Fargo, Wix, Yandex, Zeta, Zoho, Zomato, tcs

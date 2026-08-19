@@ -1,0 +1,8 @@
+Rank: 33
+Title: Coin Change
+Difficulty: MEDIUM
+CompanyCount: 38
+TotalFrequency: 2194.9
+Link: https://leetcode.com/problems/coin-change
+Topics: Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack
+Companies: Accenture, Accolite, Adobe, Affirm, Agoda, Airbnb, Amazon, Apple, Bloomberg, Capgemini, DE Shaw, Datadog, Deloitte, Deutsche Bank, Geico, Goldman Sachs, Google, HashedIn, IBM, Infosys, Intuit, Mastercard, Meta, Microsoft, Morgan Stanley, Oracle, PayPal, PhonePe, Pinterest, SAP, Salesforce, ServiceNow, Sigmoid, TikTok, Uber, Walmart Labs, Yandex, Zoho

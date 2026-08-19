@@ -1,0 +1,8 @@
+Rank: 18
+Title: Search in Rotated Sorted Array
+Difficulty: MEDIUM
+CompanyCount: 49
+TotalFrequency: 3132.5
+Link: https://leetcode.com/problems/search-in-rotated-sorted-array
+Topics: Array, Binary Search
+Companies: Adobe, Amazon, Anduril, Apple, Arista Networks, Autodesk, Bloomberg, ByteDance, Cisco, Cohesity, Criteo, DP world, Delhivery, Expedia, Flipkart, FreshWorks, Goldman Sachs, Google, Grammarly, IBM, Infosys, LinkedIn, Meta, Microsoft, MongoDB, Nutanix, Nvidia, Oracle, Palo Alto Networks, PayPal, Paytm, SAP, Salesforce, Samsung, Snap, TikTok, Tinkoff, Uber, Visa, Walmart Labs, Wish, Yahoo, Yandex, ZScaler, Zepto, Zoho, eBay, josh technology, tcs

@@ -1,0 +1,8 @@
+Rank: 15
+Title: Top K Frequent Elements
+Difficulty: MEDIUM
+CompanyCount: 51
+TotalFrequency: 3360.9
+Link: https://leetcode.com/problems/top-k-frequent-elements
+Topics: Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect
+Companies: AMD, Adobe, Amazon, Apple, Arista Networks, Atlassian, Avito, Bloomberg, ByteDance, Chewy, Disney, Docusign, EPAM Systems, Goldman Sachs, Google, Huawei, Infosys, Intuit, Meta, Microsoft, Microstrategy, Morgan Stanley, Netflix, Nutanix, Nvidia, Oracle, PayPal, Pinterest, Pocket Gems, Rippling, Robinhood, Roku, Salesforce, ServiceNow, Siemens, Snap, Snowflake, SoFi, Tesla, TikTok, Twilio, Uber, Visa, Walmart Labs, Workday, Yahoo, Yandex, Yelp, Zoho, eBay, tcs

@@ -1,0 +1,8 @@
+Rank: 91
+Title: Logger Rate Limiter
+Difficulty: EASY
+CompanyCount: 22
+TotalFrequency: 1343.1
+Link: https://leetcode.com/problems/logger-rate-limiter
+Topics: Hash Table, Design, Data Stream
+Companies: Amazon, AppFolio, Apple, Atlassian, Autodesk, Cloudflare, Deliveroo, Docusign, Google, Grammarly, Intuit, Meta, Microsoft, Netflix, Oracle, Palo Alto Networks, Patreon, Reddit, Roblox, Tesla, Verily, Waymo

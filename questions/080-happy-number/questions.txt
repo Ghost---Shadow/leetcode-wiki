@@ -1,0 +1,8 @@
+Rank: 80
+Title: Happy Number
+Difficulty: EASY
+CompanyCount: 24
+TotalFrequency: 1452.0
+Link: https://leetcode.com/problems/happy-number
+Topics: Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm
+Companies: Accenture, Agoda, Airbnb, Amazon, Apple, Audible, BlackRock, Bloomberg, Cisco, Google, Jump Trading, Meta, Microsoft, Nike, Oracle, PayPal, Snowflake, Swiggy, Tesla, TikTok, Uber, Visa, X, tcs

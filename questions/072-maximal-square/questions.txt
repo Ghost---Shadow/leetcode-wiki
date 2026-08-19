@@ -1,0 +1,8 @@
+Rank: 72
+Title: Maximal Square
+Difficulty: MEDIUM
+CompanyCount: 27
+TotalFrequency: 1499.7
+Link: https://leetcode.com/problems/maximal-square
+Topics: Array, Dynamic Programming, Matrix
+Companies: Airbnb, Amazon, Apple, Bloomberg, Booking.com, ByteDance, DE Shaw, DP world, Flipkart, GSA Capital, Goldman Sachs, Google, Karat, Meta, Microsoft, Nvidia, Oracle, PayPal, PhonePe, Qualtrics, SAP, Salesforce, TikTok, Whatnot, Wise, Zomato, eBay

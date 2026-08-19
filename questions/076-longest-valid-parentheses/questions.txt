@@ -1,0 +1,8 @@
+Rank: 76
+Title: Longest Valid Parentheses
+Difficulty: HARD
+CompanyCount: 26
+TotalFrequency: 1370.6
+Link: https://leetcode.com/problems/longest-valid-parentheses
+Topics: String, Dynamic Programming, Stack, Bracket Sequences
+Companies: Accenture, Amazon, Bloomberg, Booking.com, DE Shaw, Google, IBM, InMobi, Infosys, Intuit, LinkedIn, MAQ Software, MakeMyTrip, Meta, Microsoft, Morgan Stanley, Nike, Nykaa, Oracle, Roku, Snap, Sprinklr, TikTok, Uber, Visa, Zoho

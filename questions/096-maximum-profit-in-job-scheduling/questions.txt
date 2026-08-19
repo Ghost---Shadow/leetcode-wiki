@@ -1,0 +1,8 @@
+Rank: 96
+Title: Maximum Profit in Job Scheduling
+Difficulty: HARD
+CompanyCount: 22
+TotalFrequency: 1232.9
+Link: https://leetcode.com/problems/maximum-profit-in-job-scheduling
+Topics: Array, Binary Search, Dynamic Programming, Sorting
+Companies: Airbnb, Amazon, Bloomberg, Docusign, DoorDash, Goldman Sachs, Google, Infosys, Meesho, Meta, Microsoft, Oracle, Palo Alto Networks, PhonePe, Pinterest, Pony.ai, Snowflake, Swiggy, TikTok, Uber, Verkada, WeRide

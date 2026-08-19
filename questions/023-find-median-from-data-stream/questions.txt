@@ -1,0 +1,8 @@
+Rank: 23
+Title: Find Median from Data Stream
+Difficulty: HARD
+CompanyCount: 43
+TotalFrequency: 2732.8
+Link: https://leetcode.com/problems/find-median-from-data-stream
+Topics: Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream
+Companies: Adobe, Amazon, Anduril, Apple, Arcesium, Bloomberg, Citadel, Cohesity, Coupang, DE Shaw, Docusign, Flipkart, Goldman Sachs, Google, Hive, IXL, Intuit, KLA, Meesho, Meta, Microsoft, Okta, Oracle, PayPal, Pinterest, Rippling, SIG, Salesforce, Snowflake, Splunk, Spotify, Sprinklr, StackAdapt, Tekion, TikTok, Tinder, Twitch, Uber, Visa, Walmart Labs, WorldQuant, Yandex, eBay

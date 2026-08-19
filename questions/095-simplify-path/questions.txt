@@ -1,0 +1,8 @@
+Rank: 95
+Title: Simplify Path
+Difficulty: MEDIUM
+CompanyCount: 22
+TotalFrequency: 1251.1
+Link: https://leetcode.com/problems/simplify-path
+Topics: String, Stack
+Companies: Amazon, Apple, Arista Networks, Bloomberg, Capital One, Google, Grab, IBM, Meta, Microsoft, Nvidia, OpenAI, Oracle, Patreon, ServiceNow, Snowflake, TikTok, Tinkoff, Uber, Upstart, Visa, Yandex

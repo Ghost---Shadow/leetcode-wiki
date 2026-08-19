@@ -1,0 +1,8 @@
+Rank: 97
+Title: Serialize and Deserialize Binary Tree
+Difficulty: HARD
+CompanyCount: 22
+TotalFrequency: 1207.3
+Link: https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+Topics: String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree
+Companies: Amazon, Apple, Atlassian, Bloomberg, Citadel, DoorDash, Flipkart, General Motors, Google, Hive, LinkedIn, Meta, Microsoft, Nutanix, Nvidia, Oracle, PayPal, Quora, TikTok, Uber, Yahoo, tcs

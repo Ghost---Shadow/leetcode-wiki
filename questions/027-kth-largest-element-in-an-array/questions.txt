@@ -1,0 +1,8 @@
+Rank: 27
+Title: Kth Largest Element in an Array
+Difficulty: MEDIUM
+CompanyCount: 41
+TotalFrequency: 2371.7
+Link: https://leetcode.com/problems/kth-largest-element-in-an-array
+Topics: Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect
+Companies: Accenture, Adobe, Alibaba, Amazon, Apple, Autodesk, Avito, BNY Mellon, Bloomberg, ByteDance, Coupang, DE Shaw, Deloitte, EPAM Systems, Flipkart, Goldman Sachs, Google, IBM, Infosys, LinkedIn, Meta, Microsoft, Morgan Stanley, Nvidia, Oracle, PayPal, Pocket Gems, Qualcomm, SAP, Salesforce, ServiceNow, Spotify, Texas Instruments, TikTok, Turing, Uber, Visa, Walmart Labs, Zoho, eBay, tcs

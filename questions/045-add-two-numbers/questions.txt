@@ -1,0 +1,8 @@
+Rank: 45
+Title: Add Two Numbers
+Difficulty: MEDIUM
+CompanyCount: 36
+TotalFrequency: 2048.3
+Link: https://leetcode.com/problems/add-two-numbers
+Topics: Linked List, Math, Recursion
+Companies: AQR Capital Management, Accenture, Accolite, Adobe, Airbnb, Amazon, Apple, Arista Networks, Avito, Bloomberg, ByteDance, Capgemini, Capital One, Cisco, DoorDash, EPAM Systems, EarnIn, Goldman Sachs, Google, IBM, Infosys, Jane Street, Media.net, Meta, Microsoft, Nvidia, Oracle, Palo Alto Networks, SAP, Snowflake, TikTok, Uber, Wix, Yandex, Zoho, tcs

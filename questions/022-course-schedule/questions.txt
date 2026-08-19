@@ -1,0 +1,8 @@
+Rank: 22
+Title: Course Schedule
+Difficulty: MEDIUM
+CompanyCount: 44
+TotalFrequency: 2609.5
+Link: https://leetcode.com/problems/course-schedule
+Topics: Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph
+Companies: Adobe, Akamai, Amazon, Anduril, Apple, BitGo, Bloomberg, Booking.com, ByteDance, Cisco, Citadel, Cloudflare, Coupang, CrowdStrike, Cruise, DoorDash, Flipkart, Goldman Sachs, Google, IXL, Infosys, LinkedIn, LiveRamp, Meta, Microsoft, Nordstrom, Nvidia, Oracle, PayPal, Roblox, Salesforce, Snap, Snowflake, Swiggy, Tesla, TikTok, Uber, Visa, Walmart Labs, Yelp, Zenefits, Zoho, Zomato, eBay

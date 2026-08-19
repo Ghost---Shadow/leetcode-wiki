@@ -1,0 +1,8 @@
+Rank: 34
+Title: Insert Delete GetRandom O(1)
+Difficulty: MEDIUM
+CompanyCount: 37
+TotalFrequency: 2515.2
+Link: https://leetcode.com/problems/insert-delete-getrandom-o1
+Topics: Array, Hash Table, Math, Design, Randomized
+Companies: Affirm, Agoda, Amazon, Apple, Axon, Bloomberg, ByteDance, Cisco, Citadel, Coupang, DE Shaw, Docusign, DoorDash, Google, Grammarly, IXL, LinkedIn, Meta, Microsoft, Nvidia, Okta, Oracle, Palo Alto Networks, Peloton, Pocket Gems, Pure Storage, Quora, Roblox, Rubrik, Snowflake, SoFi, TikTok, Uber, X, Yandex, Yelp, Zeta

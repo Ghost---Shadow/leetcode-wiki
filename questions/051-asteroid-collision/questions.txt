@@ -1,0 +1,8 @@
+Rank: 51
+Title: Asteroid Collision
+Difficulty: MEDIUM
+CompanyCount: 35
+TotalFrequency: 1945.0
+Link: https://leetcode.com/problems/asteroid-collision
+Topics: Array, Stack, Simulation
+Companies: Accolite, Amazon, Bloomberg, DE Shaw, Deloitte, DoorDash, Dream11, Flipkart, Goldman Sachs, Google, IBM, Infosys, Juspay, Meesho, Meta, Microsoft, Myntra, Nuro, Nutanix, Nvidia, OpenAI, Oracle, PayPal, PhonePe, Qualtrics, Roku, Salesforce, ServiceNow, SoFi, Sprinklr, TikTok, Uber, Walmart Labs, Zoho, tcs

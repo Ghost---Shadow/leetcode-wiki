@@ -1,0 +1,8 @@
+Rank: 26
+Title: Meeting Rooms II
+Difficulty: MEDIUM
+CompanyCount: 41
+TotalFrequency: 2526.3
+Link: https://leetcode.com/problems/meeting-rooms-ii
+Topics: Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum
+Companies: Adobe, Amazon, Anduril, Apple, Atlassian, Aurora, Bloomberg, Capital One, Cisco, Citadel, Compass, DE Shaw, Disney, Docusign, FreshWorks, Goldman Sachs, Google, Hubspot, IBM, Lyft, Meta, Microsoft, Netflix, Nutanix, Oracle, Pinterest, Salesforce, Snap, Snowflake, Splunk, Tekion, TikTok, Two Sigma, Uber, Visa, Walmart Labs, Waymo, Wells Fargo, Whatnot, WorldQuant, Yahoo

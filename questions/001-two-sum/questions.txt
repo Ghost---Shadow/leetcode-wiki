@@ -1,0 +1,8 @@
+Rank: 1
+Title: Two Sum
+Difficulty: EASY
+CompanyCount: 115
+TotalFrequency: 8897.1
+Link: https://leetcode.com/problems/two-sum
+Topics: Array, Hash Table
+Companies: AMD, Accenture, Accolite, Adobe, Airbnb, Airbus SE, Akamai, Altimetrik, Amazon, American Express, Anduril, Apple, Atlassian, Autodesk, Barclays, BlackRock, Bloomberg, ByteDance, Capgemini, Capital One, Cisco, Citadel, Citigroup, Cognizant, Comcast, Criteo, DE Shaw, Databricks, Delhivery, Dell, Deloitte, Deutsche Bank, DevRev, Devsinc, DoorDash, Dropbox, EPAM Systems, EY, Epic Systems, Expedia, Flipkart, Garmin, Goldman Sachs, Google, Grab, HCL, HashedIn, Honeywell, Huawei, Hubspot, IBM, Infosys, Intel, Intuit, Jane Street, Juspay, KLA, LinkedIn, Lowe's, Mastercard, Meta, Microsoft, Microstrategy, MindTree, MongoDB, Morgan Stanley, NetApp, Nvidia, Optum, Oracle, Ozon, Palo Alto Networks, PayPal, PhonePe, Publicis Sapient, Pwc, Qualcomm, Roblox, SAP, Salesforce, Samsung, ServiceNow, Snowflake, Sony, Splunk, Spotify, Synopsys, Tech Mahindra, Tekion, Tesla, ThoughtWorks, Tiger Analytics, TikTok, Tinkoff, Toast, Turing, UKG, Uber, VK, Virtusa, Visa, Walmart Labs, Warnermedia, Western Digital, Wipro, Wix, Yahoo, Yandex, Yelp, Zoho, ciena, eBay, jio, persistent systems, tcs

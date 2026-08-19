@@ -1,0 +1,8 @@
+Rank: 73
+Title: Reverse Nodes in k-Group
+Difficulty: HARD
+CompanyCount: 27
+TotalFrequency: 1442.5
+Link: https://leetcode.com/problems/reverse-nodes-in-k-group
+Topics: Linked List, Recursion
+Companies: Amazon, Apple, Arista Networks, Autodesk, Bloomberg, Cadence, Cisco, Goldman Sachs, Google, Infosys, MathWorks, Meta, Microsoft, Oracle, Palo Alto Networks, Qualcomm, Salesforce, Sigmoid, TikTok, Uber, Visa, Walmart Labs, ZScaler, Zeta, Zopsmart, josh technology, tcs

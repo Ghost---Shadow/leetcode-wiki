@@ -1,0 +1,8 @@
+Rank: 17
+Title: Merge k Sorted Lists
+Difficulty: HARD
+CompanyCount: 49
+TotalFrequency: 3214.8
+Link: https://leetcode.com/problems/merge-k-sorted-lists
+Topics: Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort
+Companies: Airbnb, Amazon, American Express, Anduril, Apple, Bloomberg, ByteDance, CME Group, Citadel, Cloudflare, Cohesity, Coupang, Deloitte, Disney, DoorDash, Flipkart, FreshWorks, Goldman Sachs, Google, Hubspot, IXL, LinkedIn, Meta, Microsoft, Moloco, MongoDB, Netskope, Nvidia, Oracle, Pinterest, Qualcomm, Rippling, Rivian, Salesforce, Samsung, Snap, Snowflake, SoFi, TikTok, Two Sigma, Uber, Verkada, Walmart Labs, Warnermedia, X, Yandex, eBay, oyo, tcs

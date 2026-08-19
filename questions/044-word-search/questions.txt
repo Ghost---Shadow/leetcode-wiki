@@ -1,0 +1,8 @@
+Rank: 44
+Title: Word Search
+Difficulty: MEDIUM
+CompanyCount: 36
+TotalFrequency: 2071.0
+Link: https://leetcode.com/problems/word-search
+Topics: Array, String, Backtracking, Depth-First Search, Matrix
+Companies: Accenture, Amazon, Apple, Arista Networks, Atlassian, Bloomberg, Cisco, Citadel, Epic Systems, Faire, Goldman Sachs, Google, Grammarly, IBM, Karat, MakeMyTrip, Mastercard, Meta, Microsoft, Morgan Stanley, Netflix, Oracle, PayPal, Salesforce, Samsung, Snap, Snowflake, TikTok, Uber, Visa, Walmart Labs, Whatnot, Wix, Yahoo, Zoho, eBay

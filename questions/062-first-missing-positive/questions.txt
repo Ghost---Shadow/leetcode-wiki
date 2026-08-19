@@ -1,0 +1,8 @@
+Rank: 62
+Title: First Missing Positive
+Difficulty: HARD
+CompanyCount: 30
+TotalFrequency: 1635.3
+Link: https://leetcode.com/problems/first-missing-positive
+Topics: Array, Hash Table
+Companies: Adobe, Amazon, Apple, Bloomberg, Cognizant, EPAM Systems, Geico, General Motors, Goldman Sachs, Google, Infosys, MakeMyTrip, Meta, Microsoft, Myntra, Netflix, Netskope, Nutanix, Nvidia, Oracle, PayPal, PhonePe, Salesforce, ServiceNow, Swiggy, Tesla, Walmart Labs, Zoho, Zomato, tcs

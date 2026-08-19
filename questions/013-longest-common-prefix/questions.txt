@@ -1,0 +1,8 @@
+Rank: 13
+Title: Longest Common Prefix
+Difficulty: EASY
+CompanyCount: 52
+TotalFrequency: 3698.2
+Link: https://leetcode.com/problems/longest-common-prefix
+Topics: Array, String, Trie
+Companies: Accenture, Adobe, Amazon, American Express, Apple, Barclays, Bloomberg, CME Group, Capgemini, Deloitte, Deutsche Bank, Disney, EPAM Systems, Fidelity, Google, HSBC, HashedIn, Hudson River Trading, IBM, Infosys, Jane Street, Larsen & Toubro, Meta, Microsoft, Nokia, Nvidia, Oracle, Palo Alto Networks, PhonePe, Publicis Sapient, Pwc, Qualcomm, Quora, Revolut, Roblox, SAP, Sigmoid, Target, TikTok, USAA, Uber, Virtusa, Visa, Walmart Labs, Wipro, Yahoo, Yelp, Zoho, opentext, oyo, persistent systems, tcs

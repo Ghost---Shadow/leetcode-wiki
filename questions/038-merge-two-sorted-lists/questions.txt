@@ -1,0 +1,8 @@
+Rank: 38
+Title: Merge Two Sorted Lists
+Difficulty: EASY
+CompanyCount: 37
+TotalFrequency: 2099.9
+Link: https://leetcode.com/problems/merge-two-sorted-lists
+Topics: Linked List, Recursion
+Companies: Accenture, Adobe, Amazon, Apple, Arista Networks, Bloomberg, Capgemini, Dell, Docusign, EPAM Systems, Goldman Sachs, Google, HPE, Huawei, Hubspot, Infosys, LinkedIn, Meta, Microsoft, MongoDB, Nvidia, Oracle, Palo Alto Networks, Qualcomm, Rippling, Salesforce, ServiceNow, Siemens, Snowflake, Squarespace, TikTok, Visa, Wix, Yandex, Zoho, josh technology, tcs

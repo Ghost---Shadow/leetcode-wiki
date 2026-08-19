@@ -1,0 +1,59 @@
+"""Runs against every solution file (*.py, excluding this file) in this directory.
+
+Each solution file must expose: solve(word1, word2) -> int
+"""
+import glob
+import importlib.util
+import os
+import sys
+
+TEST_CASES = [
+    (("horse", "ros"), 3),
+    (("intention", "execution"), 5),
+    (("", ""), 0),
+    (("a", ""), 1),
+    (("", "a"), 1),
+    (("abc", "abc"), 0),
+]
+
+
+def load_solution_modules():
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    modules = {}
+    for filepath in sorted(glob.glob(os.path.join(dir_path, "*.py"))):
+        name = os.path.basename(filepath)
+        if name.startswith("test_"):
+            continue
+        spec = importlib.util.spec_from_file_location(name[:-3], filepath)
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        if hasattr(module, "solve"):
+            modules[name] = module
+    return modules
+
+
+def run():
+    modules = load_solution_modules()
+    if not modules:
+        print("No solution files found.")
+        sys.exit(1)
+
+    failures = 0
+    for name, module in modules.items():
+        for args, expected in TEST_CASES:
+            word1, word2 = args
+            result = module.solve(word1, word2)
+            ok = result == expected
+            status = "PASS" if ok else "FAIL"
+            print(f"[{status}] {name}: solve({word1!r}, {word2!r}) -> {result} (expected {expected})")
+            if not ok:
+                failures += 1
+
+    if failures:
+        print(f"{failures} test(s) failed")
+        sys.exit(1)
+    print("All tests passed.")
+
+
+if __name__ == "__main__":
+    run()

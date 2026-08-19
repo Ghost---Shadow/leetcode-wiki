@@ -1,0 +1,8 @@
+Rank: 31
+Title: Valid Anagram
+Difficulty: EASY
+CompanyCount: 39
+TotalFrequency: 2354.5
+Link: https://leetcode.com/problems/valid-anagram
+Topics: Hash Table, String, Sorting
+Companies: Accenture, Affirm, Amadeus, Amazon, American Express, Apple, Bloomberg, Capgemini, Cisco, Cognizant, DE Shaw, Dell, Deloitte, EPAM Systems, Fidelity, Goldman Sachs, Google, IBM, Infosys, Mastercard, Meta, Microsoft, Nagarro, Netflix, Nokia, Nvidia, Oracle, Ozon, PayPal, Siemens, Tesla, Uber, Visa, Wipro, Yandex, Yelp, Zoho, Zopsmart, tcs

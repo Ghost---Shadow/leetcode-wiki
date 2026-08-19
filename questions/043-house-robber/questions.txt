@@ -1,0 +1,8 @@
+Rank: 43
+Title: House Robber
+Difficulty: MEDIUM
+CompanyCount: 36
+TotalFrequency: 2122.0
+Link: https://leetcode.com/problems/house-robber
+Topics: Array, Dynamic Programming
+Companies: Adobe, Agoda, Airbnb, Amazon, Anduril, Apple, Bloomberg, ByteDance, CARS24, Cisco, DE Shaw, Databricks, Datadog, EPAM Systems, Expedia, Freecharge, Goldman Sachs, Google, Grab, Gusto, Hotstar, Infosys, Intuit, LinkedIn, MakeMyTrip, Meta, Microsoft, Nvidia, Oracle, PayPal, PhonePe, TikTok, Uber, Walmart Labs, Zoho, tcs

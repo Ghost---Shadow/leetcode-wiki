@@ -1,0 +1,8 @@
+Rank: 81
+Title: Valid Sudoku
+Difficulty: MEDIUM
+CompanyCount: 24
+TotalFrequency: 1451.9
+Link: https://leetcode.com/problems/valid-sudoku
+Topics: Array, Hash Table, Matrix
+Companies: Amazon, Apple, Bloomberg, Confluent, EarnIn, Geico, Goldman Sachs, Google, Karat, Meta, Microsoft, Oracle, PayPal, Riot Games, Samsara, Snap, TikTok, Uber, Upstart, Verkada, Walmart Labs, Wissen Technology, Yandex, Zoho

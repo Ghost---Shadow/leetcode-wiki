@@ -1,0 +1,8 @@
+Rank: 90
+Title: Task Scheduler
+Difficulty: MEDIUM
+CompanyCount: 23
+TotalFrequency: 1174.8
+Link: https://leetcode.com/problems/task-scheduler
+Topics: Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting
+Companies: Amazon, Apple, Bloomberg, Coupang, Docusign, Goldman Sachs, Google, LinkedIn, MathWorks, Meta, Microsoft, Nutanix, Nvidia, Okta, Oracle, Roblox, Rubrik, Snowflake, TikTok, Uber, Walmart Labs, Zeta, tcs

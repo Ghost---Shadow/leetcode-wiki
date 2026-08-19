@@ -1,0 +1,8 @@
+Rank: 52
+Title: Reverse Linked List
+Difficulty: EASY
+CompanyCount: 34
+TotalFrequency: 2183.5
+Link: https://leetcode.com/problems/reverse-linked-list
+Topics: Linked List, Recursion
+Companies: Adobe, Amazon, Apple, Bloomberg, Cisco, EPAM Systems, Goldman Sachs, Google, IBM, Infosys, LinkedIn, Luxoft, Meta, Microsoft, Morgan Stanley, Nokia, Nvidia, Oracle, Paytm, Qualcomm, SAP, ServiceNow, Snap, TikTok, Uber, Visa, X, Yahoo, Yandex, Yelp, Zenefits, Zynga, jio, tcs

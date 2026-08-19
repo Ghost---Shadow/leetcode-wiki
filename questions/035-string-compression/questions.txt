@@ -1,0 +1,8 @@
+Rank: 35
+Title: String Compression
+Difficulty: MEDIUM
+CompanyCount: 37
+TotalFrequency: 2397.4
+Link: https://leetcode.com/problems/string-compression
+Topics: Two Pointers, String
+Companies: Accenture, Affirm, Amazon, Anduril, Apple, Bloomberg, Cognizant, CrowdStrike, EPAM Systems, Expedia, GoDaddy, Goldman Sachs, Google, IBM, Lyft, Meta, Microsoft, MongoDB, Nvidia, Oracle, Palo Alto Networks, Paytm, Pinterest, Rakuten, Ripple, Rivian, Salesforce, ServiceNow, Snap, The Trade Desk, TikTok, Tinkoff, Yandex, Yelp, Zoox, eBay, tcs

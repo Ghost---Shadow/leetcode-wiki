@@ -1,0 +1,8 @@
+Rank: 57
+Title: Time Based Key-Value Store
+Difficulty: MEDIUM
+CompanyCount: 32
+TotalFrequency: 2062.7
+Link: https://leetcode.com/problems/time-based-key-value-store
+Topics: Hash Table, String, Binary Search, Design
+Companies: Amazon, Anduril, Apple, Axon, Bloomberg, Cisco, Citadel, Coinbase, Compass, Confluent, CrowdStrike, Databricks, Flexport, Google, Gusto, Instacart, LiveRamp, Lyft, Meta, Microsoft, MongoDB, Netflix, OpenAI, Oracle, Salesforce, Snowflake, TikTok, Uber, VMware, Verkada, Walmart Labs, eBay

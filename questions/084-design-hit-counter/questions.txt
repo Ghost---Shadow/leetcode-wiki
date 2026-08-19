@@ -1,0 +1,8 @@
+Rank: 84
+Title: Design Hit Counter
+Difficulty: MEDIUM
+CompanyCount: 24
+TotalFrequency: 1377.6
+Link: https://leetcode.com/problems/design-hit-counter
+Topics: Array, Binary Search, Design, Queue, Data Stream
+Companies: Affirm, Amazon, Apple, Atlassian, Bloomberg, Careem, Cloudflare, Coupang, Databricks, Dropbox, Google, Meta, Microsoft, OpenAI, Oracle, Reddit, Roblox, Sentry, Snap, Snowflake, Uber, Walmart Labs, Wise, Yandex

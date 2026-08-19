@@ -1,0 +1,8 @@
+Rank: 79
+Title: Jump Game II
+Difficulty: MEDIUM
+CompanyCount: 25
+TotalFrequency: 1229.5
+Link: https://leetcode.com/problems/jump-game-ii
+Topics: Array, Dynamic Programming, Greedy
+Companies: Adobe, Amazon, Apple, Atlassian, Bloomberg, DoorDash, Flipkart, Goldman Sachs, Google, Grab, Groupon, HashedIn, IBM, Meta, Microsoft, Nutanix, Oracle, PhonePe, Samsung, ServiceNow, Snowflake, TikTok, Zoho, eBay, tcs

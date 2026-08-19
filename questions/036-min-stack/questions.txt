@@ -1,0 +1,8 @@
+Rank: 36
+Title: Min Stack
+Difficulty: MEDIUM
+CompanyCount: 37
+TotalFrequency: 2307.1
+Link: https://leetcode.com/problems/min-stack
+Topics: Stack, Design
+Companies: Adobe, Amazon, Apple, Bloomberg, Citadel, Flipkart, Google, IBM, IMC, Informatica, Infosys, Intel, LinkedIn, Lucid, Lyft, Meta, Microsoft, Nike, Nvidia, Odoo, Oracle, Ozon, Palo Alto Networks, Paytm, Salesforce, Sigmoid, Snap, Snowflake, Tinkoff, Tripadvisor, Uber, UiPath, Vimeo, Walmart Labs, Yandex, Zenefits, tcs

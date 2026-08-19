@@ -1,0 +1,8 @@
+Rank: 55
+Title: LFU Cache
+Difficulty: HARD
+CompanyCount: 33
+TotalFrequency: 1821.4
+Link: https://leetcode.com/problems/lfu-cache
+Topics: Hash Table, Linked List, Design, Doubly-Linked List
+Companies: Amazon, Apple, Arista Networks, BNY Mellon, Bloomberg, Citadel, Coupang, DevRev, DoorDash, Expedia, Goldman Sachs, Google, IMC, KLA, LinkedIn, Meta, Microsoft, Netflix, Netskope, Nutanix, Oracle, PayPal, Rippling, Salesforce, ServiceNow, Snap, TikTok, Uber, Verkada, Visa, Walmart Labs, Wells Fargo, Zomato

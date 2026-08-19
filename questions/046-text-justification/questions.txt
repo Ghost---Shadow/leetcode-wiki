@@ -1,0 +1,8 @@
+Rank: 46
+Title: Text Justification
+Difficulty: HARD
+CompanyCount: 35
+TotalFrequency: 2299.5
+Link: https://leetcode.com/problems/text-justification
+Topics: Array, String, Simulation
+Companies: Airbnb, Amazon, Apple, Atlassian, Autodesk, Bloomberg, ByteDance, Capital One, Coursera, DE Shaw, Databricks, Goldman Sachs, Google, Hive, Hudson River Trading, Karat, LinkedIn, Meta, Microsoft, MongoDB, Moveworks, PayPal, Pinterest, Quora, Robinhood, Roblox, SIG, Sentry, SoFi, TikTok, Tinder, Uber, Visa, Waymo, WeRide

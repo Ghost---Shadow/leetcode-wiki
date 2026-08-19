@@ -1,0 +1,8 @@
+Rank: 85
+Title: Binary Tree Maximum Path Sum
+Difficulty: HARD
+CompanyCount: 24
+TotalFrequency: 1281.4
+Link: https://leetcode.com/problems/binary-tree-maximum-path-sum
+Topics: Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees
+Companies: Adobe, Amazon, Apple, Baidu, Bloomberg, Citadel, Datadog, DoorDash, Flipkart, Goldman Sachs, Google, Infosys, Meta, Microsoft, Nutanix, Oracle, PayPal, Salesforce, Snap, TikTok, Uber, Wix, Yandex, tcs

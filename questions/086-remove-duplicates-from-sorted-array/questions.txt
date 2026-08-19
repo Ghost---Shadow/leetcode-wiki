@@ -1,0 +1,8 @@
+Rank: 86
+Title: Remove Duplicates from Sorted Array
+Difficulty: EASY
+CompanyCount: 23
+TotalFrequency: 1321.0
+Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array
+Topics: Array, Two Pointers
+Companies: Accenture, Amazon, Apple, Bloomberg, Capgemini, Cisco, Cognizant, Deloitte, Goldman Sachs, Google, Infosys, Meta, Microsoft, Morgan Stanley, Myntra, Oracle, Siemens, Uber, Walmart Labs, Wissen Technology, Yandex, Zoho, tcs

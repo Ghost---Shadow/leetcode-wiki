@@ -1,0 +1,8 @@
+Rank: 25
+Title: Koko Eating Bananas
+Difficulty: MEDIUM
+CompanyCount: 43
+TotalFrequency: 2484.8
+Link: https://leetcode.com/problems/koko-eating-bananas
+Topics: Array, Binary Search
+Companies: Accenture, Adobe, Agoda, Amazon, Apple, Atlassian, Autodesk, Bloomberg, Citadel, Coupang, DE Shaw, DoorDash, Expedia, Flipkart, Goldman Sachs, Google, HashedIn, IBM, InMobi, Infosys, LinkedIn, Meta, Microsoft, Netflix, Nokia, Nvidia, Oracle, Palo Alto Networks, PayPal, Ripple, Salesforce, Snap, Swiggy, TikTok, Trexquant, Turing, Uber, VMware, Zepto, Zoho, josh technology, oyo, tcs

@@ -1,0 +1,8 @@
+Rank: 4
+Title: Valid Parentheses
+Difficulty: EASY
+CompanyCount: 99
+TotalFrequency: 7113.3
+Link: https://leetcode.com/problems/valid-parentheses
+Topics: String, Stack, Bracket Sequences
+Companies: Accenture, Accolite, Adobe, Agoda, Airbnb, Altimetrik, Amazon, Anduril, Apple, Autodesk, Bank of America, Barclays, BlackRock, Bloomberg, ByteDance, Capital One, Chewy, Cisco, Cognizant, Comcast, Criteo, CrowdStrike, DE Shaw, Dell, Deloitte, EPAM Systems, Epic Systems, Expedia, Flipkart, FreshWorks, GoDaddy, Goldman Sachs, Google, Grab, HCL, HP, Huawei, IBM, Infosys, Intel, Intuit, Jane Street, LinkedIn, Lucid, Mastercard, MathWorks, Meta, Microsoft, Millennium, Nike, Nokia, Nvidia, Odoo, Oracle, Ozon, Palo Alto Networks, PayPal, Paytm, PhonePe, Qualcomm, Roblox, Rokt, SAP, Salesforce, Samsung, ServiceNow, Siemens, Sigmoid, Sony, Splunk, Spotify, Tesla, TikTok, Toast, Tripadvisor, Turing, Two Sigma, UBS, USAA, Uber, VK, Vimeo, Virtu Financial, Visa, Walmart Labs, Wells Fargo, Wipro, Wix, X, Yahoo, Yandex, ZS Associates, Zenefits, Zoho, carwale, eBay, opentext, persistent systems, tcs

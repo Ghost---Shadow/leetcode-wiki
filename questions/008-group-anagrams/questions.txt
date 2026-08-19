@@ -1,0 +1,8 @@
+Rank: 8
+Title: Group Anagrams
+Difficulty: MEDIUM
+CompanyCount: 79
+TotalFrequency: 5622.7
+Link: https://leetcode.com/problems/group-anagrams
+Topics: Array, Hash Table, String, Sorting
+Companies: Accolite, Adobe, Affirm, Amazon, Anduril, Apple, Atlassian, Autodesk, Avito, BNY Mellon, BlackRock, Bloomberg, Capgemini, Cisco, Citadel, Compass, Coupang, CrowdStrike, DP world, Dell, Deloitte, Disney, Docusign, EPAM Systems, Expedia, FactSet, FreshWorks, Goldman Sachs, Google, HashedIn, IBM, Infosys, Instacart, Intuit, MakeMyTrip, Meta, Microsoft, Millennium, Morgan Stanley, Nielsen, Nike, Nutanix, Nvidia, Okta, Oracle, Palo Alto Networks, PayPal, PhonePe, Publicis Sapient, SAP, Salesforce, Siemens, Sigmoid, Smartsheet, Snap, Squarepoint Capital, TikTok, Turing, Twilio, UBS, Uber, Upstart, Visa, Walmart Labs, Wayfair, Whatnot, Wipro, Wissen Technology, Workday, Yandex, Yelp, Zoho, athenahealth, blinkit, eBay, jio, josh technology, persistent systems, tcs

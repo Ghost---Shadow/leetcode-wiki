@@ -1,0 +1,8 @@
+Rank: 10
+Title: Trapping Rain Water
+Difficulty: HARD
+CompanyCount: 72
+TotalFrequency: 5087.1
+Link: https://leetcode.com/problems/trapping-rain-water
+Topics: Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack
+Companies: Accenture, Adobe, Airbnb, Amazon, Apple, BitGo, Bloomberg, ByteDance, Cadence, Capgemini, Citadel, CrowdStrike, DE Shaw, Dell, Docusign, EPAM Systems, Expedia, Flipkart, Goldman Sachs, Google, Grammarly, HCL, HashedIn, Hive, Huawei, IBM, IMC, InMobi, Infosys, Intel, MakeMyTrip, Media.net, Meta, Microsoft, Mindtickle, Moloco, Navi, Nutanix, Nvidia, OpenAI, Oracle, PayPal, Paytm, PhonePe, Publicis Sapient, Qualcomm, Rakuten, Roblox, SAP, Salesforce, Samsung, ServiceNow, Snowflake, Sprinklr, Squarepoint Capital, Swiggy, Tekion, Tesla, ThousandEyes, TikTok, Uber, Urban Company, Visa, Walmart Labs, Wix, X, Yandex, Zenefits, Zeta, Zoho, Zopsmart, tcs

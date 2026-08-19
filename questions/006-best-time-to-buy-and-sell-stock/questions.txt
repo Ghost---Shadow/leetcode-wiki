@@ -1,0 +1,8 @@
+Rank: 6
+Title: Best Time to Buy and Sell Stock
+Difficulty: EASY
+CompanyCount: 82
+TotalFrequency: 6019.6
+Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+Topics: Array, Dynamic Programming
+Companies: Accenture, Accolite, Adobe, Agoda, Airtel, Akamai, Amazon, American Express, Apple, Atlassian, BNY Mellon, Bank of America, BlackRock, Bloomberg, Bolt, ByteDance, Capgemini, Capital One, Cisco, Citadel, Citigroup, Cognizant, Coinbase, Comcast, DE Shaw, Deloitte, Deutsche Bank, EPAM Systems, Expedia, Flipkart, Garmin, Goldman Sachs, Google, Groww, HCL, HSBC, IBM, Infosys, Mastercard, Media.net, Meta, Microsoft, Microstrategy, Millennium, Morgan Stanley, Myntra, NetApp, Nvidia, Optiver, Oracle, Ozon, PayPal, PayPay, Paytm, RBC, Remitly, Robinhood, SAP, Salesforce, Samsung, Siemens, Sigmoid, Snowflake, Societe Generale, Squarepoint Capital, Swiggy, Tech Mahindra, Tesla, Tiger Analytics, TikTok, Toast, Turing, Uber, VK, Visa, Walmart Labs, Yandex, Zoho, Zoox, carwale, opentext, tcs

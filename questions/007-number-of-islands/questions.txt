@@ -1,0 +1,8 @@
+Rank: 7
+Title: Number of Islands
+Difficulty: MEDIUM
+CompanyCount: 81
+TotalFrequency: 5866.5
+Link: https://leetcode.com/problems/number-of-islands
+Topics: Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
+Companies: AMD, Accenture, Adobe, Amazon, Anduril, Aon, Apple, Aurora, Autodesk, Barclays, BitGo, BlackRock, Bloomberg, ByteDance, Capital One, Cisco, Citadel, Cloudflare, Comcast, Coupang, CrowdStrike, DE Shaw, Docusign, DoorDash, Expedia, Flipkart, Goldman Sachs, Google, Grammarly, HashedIn, Hive, Huawei, IBM, Infosys, Intel, Intuit, LinkedIn, Lucid, Meesho, Meta, Microsoft, Moloco, Nvidia, OKX, Oracle, PayPal, PhonePe, Pinterest, Qualcomm, Rippling, Rivian, SAP, Salesforce, Samsung, ServiceNow, Siemens, Sigmoid, Snap, Snowflake, SoFi, Splunk, Squarepoint Capital, Tesla, TikTok, Tinkoff, Turing, Two Sigma, Uber, Visa, Walmart Labs, Waymo, Wells Fargo, Whatnot, Wix, Yandex, Zenefits, Zepto, Zoho, Zomato, eBay, tcs

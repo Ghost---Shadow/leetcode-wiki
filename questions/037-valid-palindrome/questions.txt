@@ -1,0 +1,8 @@
+Rank: 37
+Title: Valid Palindrome
+Difficulty: EASY
+CompanyCount: 37
+TotalFrequency: 2196.0
+Link: https://leetcode.com/problems/valid-palindrome
+Topics: Two Pointers, String
+Companies: Accenture, Adobe, Amazon, Apple, Arista Networks, Axon, Bloomberg, Cadence, Cisco, Cognizant, Comcast, Deloitte, Epic Systems, Fidelity, Goldman Sachs, Google, HCL, Infosys, Intuit, LTI, Meta, Microsoft, Oracle, SAP, Salesforce, Spotify, TikTok, UKG, Uber, VK, Visa, Walmart Labs, Wayfair, Yandex, Zenefits, Zoho, tcs

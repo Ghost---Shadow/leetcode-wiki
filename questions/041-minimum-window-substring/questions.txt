@@ -1,0 +1,8 @@
+Rank: 41
+Title: Minimum Window Substring
+Difficulty: HARD
+CompanyCount: 36
+TotalFrequency: 2308.9
+Link: https://leetcode.com/problems/minimum-window-substring
+Topics: Hash Table, String, Sliding Window
+Companies: Adobe, Airbnb, Amazon, Anduril, Apollo.io, Apple, Bloomberg, Cisco, DP world, Goldman Sachs, Google, Harness, IBM, Infosys, LinkedIn, Lyft, Meesho, Meta, Microsoft, Moloco, Oracle, Qualtrics, SAP, Salesforce, Snap, Snowflake, SoFi, Swiggy, TikTok, Uber, Walmart Labs, Wissen Technology, Yandex, Zeta, Zoho, thoughtspot

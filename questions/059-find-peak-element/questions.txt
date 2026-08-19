@@ -1,0 +1,8 @@
+Rank: 59
+Title: Find Peak Element
+Difficulty: MEDIUM
+CompanyCount: 31
+TotalFrequency: 1736.1
+Link: https://leetcode.com/problems/find-peak-element
+Topics: Array, Binary Search
+Companies: Accenture, Akamai, Amazon, Apple, Bloomberg, ByteDance, Commvault, Docusign, Goldman Sachs, Google, IXL, Infosys, Meta, Microsoft, Netflix, Nvidia, Oracle, PayPal, Samsung, ServiceNow, TikTok, Uber, Urban Company, Visa, Walmart Labs, Waymo, Wix, Yahoo, Zepto, eBay, tcs

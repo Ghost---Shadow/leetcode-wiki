@@ -1,0 +1,8 @@
+Rank: 60
+Title: Palindrome Number
+Difficulty: EASY
+CompanyCount: 30
+TotalFrequency: 2070.4
+Link: https://leetcode.com/problems/palindrome-number
+Topics: Math
+Companies: AMD, Accenture, Amazon, Bloomberg, Capgemini, Capital One, Cisco, Cognizant, Deloitte, EPAM Systems, Garmin, Google, HCL, IBM, Infosys, Intel, LTI, Luxoft, Meta, Microsoft, MindTree, Morgan Stanley, Oracle, PornHub, Qualcomm, SAP, Wipro, Yandex, Zoho, tcs

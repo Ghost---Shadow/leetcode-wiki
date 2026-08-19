@@ -1,0 +1,8 @@
+Rank: 48
+Title: Generate Parentheses
+Difficulty: MEDIUM
+CompanyCount: 35
+TotalFrequency: 2156.1
+Link: https://leetcode.com/problems/generate-parentheses
+Topics: String, Dynamic Programming, Backtracking, Bracket Sequences
+Companies: Adobe, Amazon, Apple, Avito, Bloomberg, Dell, Disney, EPAM Systems, Expedia, Flipkart, Goldman Sachs, Google, Grammarly, Huawei, IBM, Infosys, Intuit, MakeMyTrip, Meta, Microsoft, Morgan Stanley, Myntra, Oracle, Qualcomm, Salesforce, Samsung, ServiceNow, TikTok, Uber, Walmart Labs, Yandex, Zenefits, Zoho, eBay, tcs

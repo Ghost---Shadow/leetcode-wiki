@@ -1,0 +1,8 @@
+Rank: 29
+Title: Longest Consecutive Sequence
+Difficulty: MEDIUM
+CompanyCount: 40
+TotalFrequency: 2221.7
+Link: https://leetcode.com/problems/longest-consecutive-sequence
+Topics: Array, Hash Table, Union-Find
+Companies: Adobe, Amazon, Apple, Atlassian, BitGo, Bloomberg, Capital One, Cisco, DE Shaw, Deloitte, EPAM Systems, Goldman Sachs, Google, IBM, Infosys, LinkedIn, Lyft, Meesho, Meta, Microsoft, Morgan Stanley, Myntra, Nvidia, Okta, Oracle, PayPal, Paytm, PhonePe, Roblox, Salesforce, Swiggy, Tesla, TikTok, Uber, Visa, Walmart Labs, Wissen Technology, Zepto, Zoho, tcs

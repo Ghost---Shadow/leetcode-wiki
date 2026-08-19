@@ -1,0 +1,8 @@
+Rank: 56
+Title: Jump Game
+Difficulty: MEDIUM
+CompanyCount: 33
+TotalFrequency: 1816.1
+Link: https://leetcode.com/problems/jump-game
+Topics: Array, Dynamic Programming, Greedy
+Companies: Adobe, Agoda, Amazon, Apple, Bloomberg, ByteDance, Cisco, Cognizant, DoorDash, Flipkart, Goldman Sachs, Google, HashedIn, Infosys, Karat, Meesho, Meta, Microsoft, Morgan Stanley, Navi, Nielsen, Nike, Nvidia, Oracle, PayPal, PhonePe, Shopee, TikTok, Turing, Visa, Walmart Labs, Zoho, tcs

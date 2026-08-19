@@ -1,0 +1,8 @@
+Rank: 89
+Title: First Unique Character in a String
+Difficulty: EASY
+CompanyCount: 23
+TotalFrequency: 1176.4
+Link: https://leetcode.com/problems/first-unique-character-in-a-string
+Topics: Hash Table, String, Queue, Counting
+Companies: Accenture, Akamai, Amazon, Apple, Bloomberg, Deloitte, EPAM Systems, Fidelity, Goldman Sachs, Google, IBM, LinkedIn, Meta, Microsoft, Morgan Stanley, Nvidia, Oracle, Visa, Walmart Labs, Yandex, Zoho, razorpay, tcs

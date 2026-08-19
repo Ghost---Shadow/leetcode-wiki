@@ -1,0 +1,8 @@
+Rank: 24
+Title: Subarray Sum Equals K
+Difficulty: MEDIUM
+CompanyCount: 43
+TotalFrequency: 2548.0
+Link: https://leetcode.com/problems/subarray-sum-equals-k
+Topics: Array, Hash Table, Prefix Sum
+Companies: AMD, Accenture, Adobe, Agoda, Amazon, Apple, BitGo, Bloomberg, Bolt, ByteDance, Capgemini, Capital One, Cisco, Cognizant, Deloitte, Flipkart, Goldman Sachs, Google, Grab, IBM, Infosys, LinkedIn, Meta, Microsoft, Nvidia, Oracle, Palo Alto Networks, PayPal, Quora, Salesforce, ServiceNow, Sprinklr, Swiggy, TikTok, Uber, Visa, Walmart Labs, Yahoo, Yandex, Zoho, josh technology, opentext, tcs

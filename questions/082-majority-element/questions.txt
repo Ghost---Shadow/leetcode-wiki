@@ -1,0 +1,8 @@
+Rank: 82
+Title: Majority Element
+Difficulty: EASY
+CompanyCount: 24
+TotalFrequency: 1446.4
+Link: https://leetcode.com/problems/majority-element
+Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
+Companies: Accenture, Adobe, Amazon, Autodesk, Bloomberg, Cognizant, DE Shaw, Flipkart, Goldman Sachs, Google, IBM, Infosys, Meta, Microsoft, Morgan Stanley, Odoo, Oracle, PornHub, Qualcomm, Walmart Labs, Yandex, Zenefits, Zoho, tcs

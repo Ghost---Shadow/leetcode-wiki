@@ -1,0 +1,8 @@
+Rank: 66
+Title: Longest Increasing Subsequence
+Difficulty: MEDIUM
+CompanyCount: 28
+TotalFrequency: 1581.8
+Link: https://leetcode.com/problems/longest-increasing-subsequence
+Topics: Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence
+Companies: Accenture, Agoda, Amazon, Atlassian, Bloomberg, ByteDance, Flexport, Goldman Sachs, Google, Huawei, Infosys, Intuit, Meta, Microsoft, Morgan Stanley, Nvidia, Oracle, PayPal, Revolut, Salesforce, Samsung, Splunk, Squarepoint Capital, TikTok, Visa, Walmart Labs, Yandex, tcs

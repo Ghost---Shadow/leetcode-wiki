@@ -1,0 +1,8 @@
+Rank: 61
+Title: Integer to Roman
+Difficulty: MEDIUM
+CompanyCount: 30
+TotalFrequency: 1687.4
+Link: https://leetcode.com/problems/integer-to-roman
+Topics: Hash Table, Math, String
+Companies: AMD, Adobe, Agoda, Amazon, BlackRock, Bloomberg, Booking.com, Docusign, DoorDash, Geico, Goldman Sachs, Google, IBM, Infosys, LinkedIn, Meta, Microsoft, Oracle, Palo Alto Networks, Salesforce, Swiggy, TikTok, UiPath, Verkada, Walmart Labs, Warnermedia, Wix, X, Zoho, tcs

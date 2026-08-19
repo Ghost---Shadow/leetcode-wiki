@@ -1,0 +1,8 @@
+Rank: 94
+Title: Regular Expression Matching
+Difficulty: HARD
+CompanyCount: 22
+TotalFrequency: 1273.1
+Link: https://leetcode.com/problems/regular-expression-matching
+Topics: String, Dynamic Programming, Recursion
+Companies: Airbnb, Amazon, Apple, Bloomberg, ByteDance, Coupang, Google, Infosys, Meta, Microsoft, Netskope, Oracle, PhonePe, Rokt, Snowflake, Sprinklr, TikTok, Uber, Waymo, X, Zoho, tcs

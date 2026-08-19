@@ -1,0 +1,8 @@
+Rank: 77
+Title: Palindromic Substrings
+Difficulty: MEDIUM
+CompanyCount: 25
+TotalFrequency: 1346.0
+Link: https://leetcode.com/problems/palindromic-substrings
+Topics: Two Pointers, String, Dynamic Programming
+Companies: Akamai, Amazon, Anduril, Apple, Arista Networks, BNY Mellon, Bloomberg, Capital One, Cisco, Citadel, Epic Systems, Goldman Sachs, Google, HCL, IBM, Intuit, LinkedIn, Meta, Microsoft, Netskope, Oracle, PayPal, Pure Storage, Salesforce, Walmart Labs

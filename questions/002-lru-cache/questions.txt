@@ -1,0 +1,8 @@
+Rank: 2
+Title: LRU Cache
+Difficulty: MEDIUM
+CompanyCount: 109
+TotalFrequency: 8446.5
+Link: https://leetcode.com/problems/lru-cache
+Topics: Hash Table, Linked List, Design, Doubly-Linked List
+Companies: AMD, Accenture, Adobe, Airwallex, Amazon, Anduril, AppFolio, Apple, Arista Networks, Atlassian, Audible, Aurora, Autodesk, BitGo, Bloomberg, Booking.com, ByteDance, Capital One, Chewy, Cisco, Citadel, Cloudflare, Confluent, Coupang, DE Shaw, Disney, Docusign, DoorDash, EPAM Systems, Expedia, Flipkart, Freecharge, General Motors, Goldman Sachs, Google, IBM, Intel, Intuit, Jane Street, KLA, LinkedIn, Lowe's, Meta, Microsoft, Millennium, Moloco, MongoDB, Morgan Stanley, Navan, NetApp, Netflix, Netskope, Nokia, Nordstrom, Nutanix, Nvidia, Okta, OpenAI, Optiver, Oracle, Palo Alto Networks, PayPal, PhonePe, Qualcomm, Rakuten, Reddit, Rippling, Rivian, Roku, Rubrik, SAP, Salesforce, Samsung, ServiceNow, Shopee, Shopify, Siemens, Snap, Snowflake, SoFi, Sprinklr, Squarepoint Capital, Squarespace, StackAdapt, Swiggy, Tesla, ThousandEyes, TikTok, Tripadvisor, Twitch, Uber, VMware, Verily, Verkada, Vimeo, Visa, Walmart Labs, Wells Fargo, X, Yahoo, Yandex, ZScaler, Zenefits, Zoho, Zoom, eBay, razorpay, smartnews, tcs

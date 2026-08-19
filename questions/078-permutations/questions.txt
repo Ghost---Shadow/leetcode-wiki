@@ -1,0 +1,8 @@
+Rank: 78
+Title: Permutations
+Difficulty: MEDIUM
+CompanyCount: 25
+TotalFrequency: 1285.2
+Link: https://leetcode.com/problems/permutations
+Topics: Array, Backtracking
+Companies: Agoda, Amazon, American Express, Apple, Arista Networks, Bloomberg, Booking.com, Cisco, Citadel, Epic Systems, Goldman Sachs, Google, Infosys, LinkedIn, Meta, Microsoft, Microstrategy, Oracle, Qualcomm, Samsung, TikTok, Uber, Workday, Zomato, tcs

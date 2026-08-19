@@ -1,0 +1,8 @@
+Rank: 12
+Title: Container With Most Water
+Difficulty: MEDIUM
+CompanyCount: 54
+TotalFrequency: 3440.1
+Link: https://leetcode.com/problems/container-with-most-water
+Topics: Array, Two Pointers, Greedy
+Companies: Accenture, Accolite, Adobe, Airtel, Amazon, Apple, Bloomberg, Capgemini, Capital One, Careem, DE Shaw, Deloitte, Dream11, Expedia, Flipkart, FreshWorks, Goldman Sachs, Google, Groww, HashedIn, Huawei, IBM, Infosys, Intel, Juspay, Meta, Microsoft, Morgan Stanley, Myntra, Nvidia, Okta, Oracle, PayPal, Paytm, PornHub, PubMatic, Publicis Sapient, Qualcomm, SAP, Salesforce, ServiceNow, Snowflake, Tesla, TikTok, Uber, Visa, Walmart Labs, Wix, Workday, Yandex, Zoho, Zomato, Zopsmart, tcs

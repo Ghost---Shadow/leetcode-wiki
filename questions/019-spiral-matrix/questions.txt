@@ -1,0 +1,8 @@
+Rank: 19
+Title: Spiral Matrix
+Difficulty: MEDIUM
+CompanyCount: 49
+TotalFrequency: 3130.3
+Link: https://leetcode.com/problems/spiral-matrix
+Topics: Array, Matrix, Simulation
+Companies: AMD, Accenture, Adobe, Akamai, Amazon, Anduril, Apple, Autodesk, Bloomberg, Capital One, Cisco, Darwinbox, Databricks, Deutsche Bank, Epic Systems, Flipkart, Goldman Sachs, Google, IBM, Infosys, Intuit, Meta, Microsoft, Morgan Stanley, NetApp, Nordstrom, Nutanix, Nvidia, Oracle, PayPal, PhonePe, PornHub, RBC, Roblox, SIG, Salesforce, The Trade Desk, TikTok, Uber, Visa, Walmart Labs, Wells Fargo, Wissen Technology, Yahoo, Yandex, Zoho, eBay, josh technology, tcs

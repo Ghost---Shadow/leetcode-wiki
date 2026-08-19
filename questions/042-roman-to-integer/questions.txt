@@ -1,0 +1,8 @@
+Rank: 42
+Title: Roman to Integer
+Difficulty: EASY
+CompanyCount: 36
+TotalFrequency: 2148.9
+Link: https://leetcode.com/problems/roman-to-integer
+Topics: Hash Table, Math, String
+Companies: AMD, Accenture, Adobe, Amazon, Apple, Bloomberg, Booking.com, Capgemini, Cashfree, Cognizant, Deloitte, DeltaX, DoorDash, EPAM Systems, Expedia, Goldman Sachs, Google, IBM, Infosys, Meta, Microsoft, Oracle, Pwc, Salesforce, Snowflake, TikTok, Tinkoff, Uber, Virtusa, Walmart Labs, Warnermedia, Wix, Yahoo, Yandex, Zoho, tcs

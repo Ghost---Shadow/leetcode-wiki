@@ -1,0 +1,8 @@
+Rank: 5
+Title: Longest Substring Without Repeating Characters
+Difficulty: MEDIUM
+CompanyCount: 97
+TotalFrequency: 7090.1
+Link: https://leetcode.com/problems/longest-substring-without-repeating-characters
+Topics: Hash Table, String, Sliding Window
+Companies: AMD, Accenture, Accolite, Adobe, Agoda, Airtel, Akamai, Amazon, American Express, Apple, Arista Networks, Atlassian, BNY Mellon, BitGo, Bloomberg, Capgemini, Cisco, Citigroup, Cognizant, Comcast, Coupang, DE Shaw, DP world, Dell, Deloitte, Docusign, Dream11, EPAM Systems, Expedia, Flipkart, Freecharge, FreshWorks, Goldman Sachs, Google, HCL, HashedIn, IBM, Infosys, Intel, Juspay, LinkedIn, Lyft, MAQ Software, MakeMyTrip, Media.net, Meta, Microsoft, Morgan Stanley, Myntra, Nagarro, NetApp, Netflix, Netskope, Nike, Nutanix, Nvidia, Optum, Oracle, Ozon, Palo Alto Networks, PayPal, Paytm, PornHub, Publicis Sapient, Qualcomm, Rippling, Roblox, SAP, Salesforce, ServiceNow, Snap, Splunk, Spotify, Swiggy, Tekion, Tesla, TikTok, Tinkoff, Turing, Twilio, Uber, VK, Virtusa, Visa, Walmart Labs, Wipro, Wissen Technology, Yandex, Yelp, Zepto, Zeta, Zoho, Zomato, athenahealth, eBay, persistent systems, tcs

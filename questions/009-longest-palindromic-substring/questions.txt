@@ -1,0 +1,8 @@
+Rank: 9
+Title: Longest Palindromic Substring
+Difficulty: MEDIUM
+CompanyCount: 74
+TotalFrequency: 4987.6
+Link: https://leetcode.com/problems/longest-palindromic-substring
+Topics: Two Pointers, String, Dynamic Programming, Manacher
+Companies: Accenture, Accolite, Adobe, Amazon, Apple, Arista Networks, Autodesk, BitGo, BlackRock, Bloomberg, ByteDance, Capital One, Cisco, Citadel, Cognizant, Commvault, DP world, Deloitte, Disney, DoorDash, EPAM Systems, EarnIn, Epic Systems, Flipkart, Goldman Sachs, Google, Grab, HCL, HPE, HSBC, HashedIn, Huawei, IBM, Info Edge, Infosys, LinkedIn, MAQ Software, MakeMyTrip, Meta, Microsoft, Morgan Stanley, Nielsen, Nvidia, Oracle, Palo Alto Networks, PayPal, Paytm, PhonePe, PornHub, Pure Storage, SAP, Salesforce, Samsung, ServiceNow, Shopee, Softwire, Swiggy, Tekion, TikTok, Tinkoff, Turing, Uber, Visa, Walmart Labs, Wix, Yandex, ZS Associates, Zoho, Zopsmart, athenahealth, eBay, opentext, persistent systems, tcs

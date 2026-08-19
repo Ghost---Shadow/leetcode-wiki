@@ -1,0 +1,8 @@
+Rank: 93
+Title: Evaluate Division
+Difficulty: MEDIUM
+CompanyCount: 22
+TotalFrequency: 1285.4
+Link: https://leetcode.com/problems/evaluate-division
+Topics: Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm
+Companies: Amazon, Apple, Bloomberg, Citadel, DP world, Flipkart, GE Healthcare, Goldman Sachs, Google, Meta, Microsoft, Nuro, PhonePe, Rippling, Snap, Stripe, Tesla, TikTok, Tower Research Capital, Uber, Urban Company, Yahoo

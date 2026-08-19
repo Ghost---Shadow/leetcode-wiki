@@ -1,0 +1,8 @@
+Rank: 92
+Title: Lowest Common Ancestor of a Binary Tree
+Difficulty: MEDIUM
+CompanyCount: 22
+TotalFrequency: 1327.8
+Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+Topics: Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor
+Companies: Adobe, Airwallex, Amazon, Apple, Atlassian, BitGo, BlackRock, Bloomberg, Cisco, Goldman Sachs, Google, Intel, Intuit, LinkedIn, Lucid, Meta, Microsoft, Oracle, SAP, TikTok, Wix, Yandex

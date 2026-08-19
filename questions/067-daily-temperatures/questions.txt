@@ -1,0 +1,8 @@
+Rank: 67
+Title: Daily Temperatures
+Difficulty: MEDIUM
+CompanyCount: 28
+TotalFrequency: 1568.7
+Link: https://leetcode.com/problems/daily-temperatures
+Topics: Array, Stack, Monotonic Stack
+Companies: Accenture, Agoda, Airwallex, Amazon, Anduril, Bloomberg, Chime, Flipkart, Goldman Sachs, Google, Grab, Infosys, Intuit, Meta, Microsoft, Morgan Stanley, Nvidia, Oracle, SAP, ServiceNow, Swiggy, Tekion, TikTok, Walmart Labs, Yandex, Zoho, josh technology, tcs

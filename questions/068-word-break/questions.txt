@@ -1,0 +1,8 @@
+Rank: 68
+Title: Word Break
+Difficulty: MEDIUM
+CompanyCount: 27
+TotalFrequency: 1721.4
+Link: https://leetcode.com/problems/word-break
+Topics: Array, Hash Table, String, Dynamic Programming, Trie, Memoization, Brute-Force Search
+Companies: Amazon, Apple, Arista Networks, Autodesk, Bloomberg, Compass, Coupang, Google, Grammarly, Intuit, LinkedIn, Meta, Microsoft, Millennium, MongoDB, Netflix, Nutanix, Oracle, Otter.ai, Palo Alto Networks, Pocket Gems, TikTok, Uber, Visa, Walmart Labs, Yahoo, Zeta

@@ -1,0 +1,8 @@
+Rank: 99
+Title: Design Circular Queue
+Difficulty: MEDIUM
+CompanyCount: 22
+TotalFrequency: 1190.2
+Link: https://leetcode.com/problems/design-circular-queue
+Topics: Array, Linked List, Design, Queue
+Companies: Amazon, Apple, Applied Intuition, Bloomberg, Citadel, Cloudflare, Coinbase, Datadog, Goldman Sachs, Google, Meta, Microsoft, Millennium, Nvidia, Optiver, Oracle, Qualcomm, Rubrik, Snowflake, Splunk, Tesla, Waymo

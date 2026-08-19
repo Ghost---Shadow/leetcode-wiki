@@ -1,0 +1,8 @@
+Rank: 47
+Title: Course Schedule II
+Difficulty: MEDIUM
+CompanyCount: 35
+TotalFrequency: 2268.7
+Link: https://leetcode.com/problems/course-schedule-ii
+Topics: Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
+Companies: Amazon, Anduril, Apple, Arista Networks, Audible, Aurora, Bloomberg, Citadel, Coinbase, DoorDash, Flipkart, Goldman Sachs, Google, IBM, Intuit, LinkedIn, Meta, Microsoft, Moloco, MongoDB, Netflix, Nutanix, Nvidia, Oracle, Qualcomm, Remitly, Roblox, Salesforce, Snap, Snowflake, TikTok, Uber, Walmart Labs, Zenefits, instabase

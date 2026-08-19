@@ -1,0 +1,8 @@
+Rank: 14
+Title: Rotting Oranges
+Difficulty: MEDIUM
+CompanyCount: 52
+TotalFrequency: 3043.2
+Link: https://leetcode.com/problems/rotting-oranges
+Topics: Array, Breadth-First Search, Matrix
+Companies: Adobe, Amazon, Anduril, Apple, Bloomberg, ByteDance, Cognizant, Commvault, DE Shaw, Databricks, DoorDash, Dream11, Expedia, Flipkart, Goldman Sachs, Google, IBM, Informatica, Infosys, Intuit, LinkedIn, Lyft, Meta, Microsoft, Moloco, Myntra, Nvidia, OpenAI, Oracle, PayPal, PhonePe, Pinterest, Rakuten, Roblox, Salesforce, Samsung, ServiceNow, Sigmoid, Snowflake, Tekion, TikTok, Uber, Visa, Walmart Labs, Wix, Yandex, Zepto, ZipRecruiter, Zoho, Zoox, eBay, tcs

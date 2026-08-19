@@ -1,0 +1,8 @@
+Rank: 100
+Title: Basic Calculator
+Difficulty: HARD
+CompanyCount: 22
+TotalFrequency: 1147.6
+Link: https://leetcode.com/problems/basic-calculator
+Topics: Math, String, Stack, Recursion
+Companies: Adobe, Amazon, Apple, Bloomberg, ByteDance, DoorDash, Google, Infosys, Meta, Microsoft, Oracle, Palo Alto Networks, Ripple, Rokt, Salesforce, Snap, Snowflake, Squarepoint Capital, Tesla, TikTok, Uber, Walmart Labs

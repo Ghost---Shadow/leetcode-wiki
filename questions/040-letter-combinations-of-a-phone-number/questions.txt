@@ -1,0 +1,8 @@
+Rank: 40
+Title: Letter Combinations of a Phone Number
+Difficulty: MEDIUM
+CompanyCount: 37
+TotalFrequency: 2065.9
+Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number
+Topics: Hash Table, String, Backtracking
+Companies: Accenture, Amazon, Apple, Bloomberg, Capital One, Cisco, Citadel, DE Shaw, Dropbox, Epic Systems, Expedia, Flexport, Goldman Sachs, Google, IBM, Infosys, LinkedIn, Lyft, Meta, Microsoft, Nvidia, Oracle, PhonePe, Pinterest, ServiceNow, Snap, Societe Generale, Tekion, Tesla, Trexquant, Uber, Visa, Walmart Labs, Yandex, Zoho, Zopsmart, tcs

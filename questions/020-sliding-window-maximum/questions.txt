@@ -1,0 +1,8 @@
+Rank: 20
+Title: Sliding Window Maximum
+Difficulty: HARD
+CompanyCount: 47
+TotalFrequency: 2832.0
+Link: https://leetcode.com/problems/sliding-window-maximum
+Topics: Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query
+Companies: Adobe, Agoda, Amazon, American Express, Apple, Aurora, Autodesk, Bloomberg, Booking.com, ByteDance, Cisco, Citadel, Coupang, DE Shaw, DoorDash, Expedia, Faire, Gameskraft, Goldman Sachs, Google, IBM, Juspay, LINE, Meta, Microsoft, MongoDB, Nutanix, Nvidia, Oracle, Palo Alto Networks, PhonePe, Roblox, Salesforce, ServiceNow, Sprinklr, TikTok, Uber, Visa, Walmart Labs, Wayfair, Yandex, Zenefits, Zepto, Zeta, Zoho, blinkit, tcs

@@ -1,0 +1,8 @@
+Rank: 98
+Title: Maximum Product Subarray
+Difficulty: MEDIUM
+CompanyCount: 22
+TotalFrequency: 1198.8
+Link: https://leetcode.com/problems/maximum-product-subarray
+Topics: Array, Dynamic Programming
+Companies: Adobe, Amazon, Bloomberg, DE Shaw, Delhivery, Goldman Sachs, Google, HashedIn, IBM, Infosys, Juspay, LinkedIn, Meta, Microsoft, Morgan Stanley, Nvidia, Qualcomm, Siemens, Swiggy, TikTok, Walmart Labs, tcs
