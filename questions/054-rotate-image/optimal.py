@@ -1,0 +1,10 @@
+def solve(matrix):
+    """Optimal: in-place transpose followed by reversing each row -- O(n^2) time,
+    O(1) extra space (no auxiliary matrix)."""
+    n = len(matrix)
+    for i in range(n):
+        for j in range(i + 1, n):
+            matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
+    for row in matrix:
+        row.reverse()
+    return matrix
