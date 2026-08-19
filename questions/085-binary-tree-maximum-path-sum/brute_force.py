@@ -32,13 +32,45 @@ def build_tree(values):
     return root
 
 
+def collect(root):
+    """Iterative preorder traversal gathering every node (order doesn't
+    matter for how the result is used below)."""
+    nodes = []
+    stack = [root]
+    while stack:
+        node = stack.pop()
+        if node is None:
+            continue
+        nodes.append(node)
+        stack.append(node.left)
+        stack.append(node.right)
+    return nodes
+
+
 def max_downward_sum(node):
     """Naive O(n) helper: the largest sum of a downward path starting at
-    `node` (recomputed independently for every node in solve())."""
+    `node` (recomputed independently for every node in solve()). Uses an
+    iterative post-order traversal over the real tree, keyed by node identity
+    (id()) rather than value, so this is a normal single-call traversal --
+    not a memo shared across separate calls to max_downward_sum()."""
     if node is None:
         return 0
-    best_child = max(max_downward_sum(node.left), max_downward_sum(node.right), 0)
-    return node.val + best_child
+
+    stack = [(node, False)]
+    best = {}
+    while stack:
+        n, processed = stack.pop()
+        if n is None:
+            continue
+        if processed:
+            left = best.get(id(n.left), 0) if n.left is not None else 0
+            right = best.get(id(n.right), 0) if n.right is not None else 0
+            best[id(n)] = n.val + max(left, right, 0)
+        else:
+            stack.append((n, True))
+            stack.append((n.left, False))
+            stack.append((n.right, False))
+    return best[id(node)]
 
 
 def solve(values):
@@ -51,16 +83,7 @@ def solve(values):
     if root is None:
         return 0
 
-    nodes = []
-
-    def collect(node):
-        if node is None:
-            return
-        nodes.append(node)
-        collect(node.left)
-        collect(node.right)
-
-    collect(root)
+    nodes = collect(root)
 
     best = float("-inf")
     for node in nodes:

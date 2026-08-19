@@ -1,17 +1,21 @@
 def solve(prices):
-    """Brute-force: recursively try, on every day, both 'do nothing' and
-    'buy/sell' branches with no memoization, exploring all 2^n decision
-    sequences instead of the O(n) greedy sum-of-positive-diffs approach."""
+    """Brute-force: explores, on every day, both 'do nothing' and 'buy/sell'
+    branches via an explicit stack of (day, holding, profit-so-far) states
+    instead of recursion -- same 2^n decision sequences, walked iteratively."""
     n = len(prices)
+    if n == 0:
+        return 0
 
-    def rec(day, holding):
+    best = 0
+    stack = [(0, False, 0)]
+    while stack:
+        day, holding, profit = stack.pop()
         if day == n:
-            return 0
-        best = rec(day + 1, holding)
+            best = max(best, profit)
+            continue
+        stack.append((day + 1, holding, profit))
         if not holding:
-            best = max(best, -prices[day] + rec(day + 1, True))
+            stack.append((day + 1, True, profit - prices[day]))
         else:
-            best = max(best, prices[day] + rec(day + 1, False))
-        return best
-
-    return rec(0, False) if n > 0 else 0
+            stack.append((day + 1, False, profit + prices[day]))
+    return best

@@ -29,27 +29,32 @@ def build_tree(values):
     return root
 
 
+def find_path(root, target):
+    """Iterative DFS that returns the root-to-target path as a list of
+    values, or None if target isn't in the tree. Carries a fresh path list
+    per stack frame instead of mutating/backtracking a shared list."""
+    stack = [(root, [])]
+    while stack:
+        node, path = stack.pop()
+        if node is None:
+            continue
+        new_path = path + [node.val]
+        if node.val == target:
+            return new_path
+        stack.append((node.right, new_path))
+        stack.append((node.left, new_path))
+    return None
+
+
 def solve(tree_list, p_val, q_val):
-    """Brute-force: finds the full root-to-node path for p and for q via separate
-    DFS calls, then walks both paths together to find the last matching node,
-    instead of a single recursive traversal that finds the LCA directly."""
+    """Brute-force: finds the full root-to-node path for p and for q via
+    separate iterative DFS searches, then walks both paths together to find
+    the last matching node, instead of a single traversal that finds the
+    LCA directly."""
     root = build_tree(tree_list)
 
-    def find_path(node, target, path):
-        if node is None:
-            return False
-        path.append(node.val)
-        if node.val == target:
-            return True
-        if find_path(node.left, target, path) or find_path(node.right, target, path):
-            return True
-        path.pop()
-        return False
-
-    path_p = []
-    path_q = []
-    find_path(root, p_val, path_p)
-    find_path(root, q_val, path_q)
+    path_p = find_path(root, p_val) or []
+    path_q = find_path(root, q_val) or []
 
     lca = None
     for a, b in zip(path_p, path_q):

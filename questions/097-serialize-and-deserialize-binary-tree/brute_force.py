@@ -49,35 +49,50 @@ def tree_to_level_order(root):
 
 def serialize(root):
     """Naive preorder serialization: writes every value (and a '#' marker for
-    every null child) into a single comma-joined string."""
+    every null child) into a single comma-joined string. Uses an explicit
+    stack instead of recursion."""
     vals = []
-
-    def helper(node):
+    stack = [root]
+    while stack:
+        node = stack.pop()
         if node is None:
-            vals.append('#')
-            return
+            vals.append("#")
+            continue
         vals.append(str(node.val))
-        helper(node.left)
-        helper(node.right)
-
-    helper(root)
-    return ','.join(vals)
+        stack.append(node.right)
+        stack.append(node.left)
+    return ",".join(vals)
 
 
 def deserialize(data):
-    """Rebuilds the tree by walking the comma-separated preorder token stream."""
-    tokens = iter(data.split(','))
+    """Rebuilds the tree from the comma-separated preorder token stream
+    using an explicit stack of (node, next-side-to-fill) frames instead of
+    recursion."""
+    tokens = iter(data.split(","))
 
-    def helper():
+    def next_node():
         val = next(tokens)
-        if val == '#':
-            return None
-        node = TreeNode(int(val))
-        node.left = helper()
-        node.right = helper()
-        return node
+        return None if val == "#" else TreeNode(int(val))
 
-    return helper()
+    root = next_node()
+    if root is None:
+        return None
+
+    stack = [[root, "left"]]
+    while stack:
+        frame = stack[-1]
+        node, side = frame
+        child = next_node()
+        if side == "left":
+            node.left = child
+            frame[1] = "right"
+        else:
+            node.right = child
+            stack.pop()
+        if child is not None:
+            stack.append([child, "left"])
+
+    return root
 
 
 def solve(tree_list):

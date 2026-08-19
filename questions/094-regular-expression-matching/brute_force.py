@@ -1,13 +1,23 @@
 def solve(s, p):
-    """Brute-force recursion without memoization: at every '*' it explores both
-    the zero-occurrence and the consume-one-and-retry branches from scratch,
-    exponential time in the worst case, instead of the O(n*m) DP."""
-    if not p:
-        return not s
+    """Brute-force, no memoization: explores both the zero-occurrence and the
+    consume-one-and-retry branches at every '*' via an explicit stack of
+    (remaining s, remaining p) states instead of recursion -- same
+    exponential worst case as the recursive version."""
+    stack = [(s, p)]
+    while stack:
+        cur_s, cur_p = stack.pop()
+        if not cur_p:
+            if not cur_s:
+                return True
+            continue
 
-    first_match = bool(s) and p[0] in (s[0], '.')
+        first_match = bool(cur_s) and cur_p[0] in (cur_s[0], ".")
 
-    if len(p) >= 2 and p[1] == '*':
-        return solve(s, p[2:]) or (first_match and solve(s[1:], p))
+        if len(cur_p) >= 2 and cur_p[1] == "*":
+            stack.append((cur_s, cur_p[2:]))
+            if first_match:
+                stack.append((cur_s[1:], cur_p))
+        elif first_match:
+            stack.append((cur_s[1:], cur_p[1:]))
 
-    return first_match and solve(s[1:], p[1:])
+    return False
