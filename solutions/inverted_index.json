@@ -1,0 +1,60 @@
+{
+  "backtracking-engine": [
+    {
+      "id": "040-letter-combinations-of-a-phone-number",
+      "title": "Letter Combinations of a Phone Number"
+    },
+    {
+      "id": "048-generate-parentheses",
+      "title": "Generate Parentheses"
+    },
+    {
+      "id": "074-combination-sum",
+      "title": "Combination Sum"
+    },
+    {
+      "id": "078-permutations",
+      "title": "Permutations"
+    }
+  ],
+  "floyd-cycle-detection": [
+    {
+      "id": "080-happy-number",
+      "title": "Happy Number"
+    },
+    {
+      "id": "087-linked-list-cycle",
+      "title": "Linked List Cycle"
+    }
+  ],
+  "kadane-running-extremes": [
+    {
+      "id": "011-maximum-subarray",
+      "title": "Maximum Subarray"
+    },
+    {
+      "id": "098-maximum-product-subarray",
+      "title": "Maximum Product Subarray"
+    }
+  ],
+  "monotonic-stack-next-element": [
+    {
+      "id": "065-largest-rectangle-in-histogram",
+      "title": "Largest Rectangle in Histogram"
+    },
+    {
+      "id": "067-daily-temperatures",
+      "title": "Daily Temperatures"
+    }
+  ],
+  "topological-sort-kahn": [
+    {
+      "id": "022-course-schedule",
+      "title": "Course Schedule"
+    },
+    {
+      "id": "047-course-schedule-ii",
+      "title": "Course Schedule II"
+    }
+  ]
+}
