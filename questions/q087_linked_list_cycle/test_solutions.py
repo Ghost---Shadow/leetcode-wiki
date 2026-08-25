@@ -1,0 +1,63 @@
+"""Runs against every solution file (*.py, excluding this file) in this directory.
+
+Each solution file must expose: solve(values, pos) -> bool
+values is the list node values in order; pos is the 0-indexed position the
+tail connects back to (or -1 for no cycle), matching LeetCode's own params.
+"""
+import importlib
+import pkgutil
+import sys
+from pathlib import Path
+
+if __package__ in (None, ""):
+    _file = Path(__file__).resolve()
+    _repo_root = _file.parents[2]
+    sys.path.insert(0, str(_repo_root))
+    __package__ = ".".join(_file.parent.relative_to(_repo_root).parts)
+    importlib.import_module(__package__)
+
+TEST_CASES = [
+    (([3, 2, 0, -4], 1), True),
+    (([1, 2], 0), True),
+    (([1], -1), False),
+    (([], -1), False),
+    (([1, 2, 3, 4, 5], -1), False),
+]
+
+
+def load_solution_modules():
+    modules = {}
+    for info in pkgutil.iter_modules([str(Path(__file__).resolve().parent)]):
+        if info.name.startswith("test_") or info.name == "__init__":
+            continue
+        module = importlib.import_module(f".{info.name}", package=__package__)
+        if hasattr(module, "solve"):
+            modules[f"{info.name}.py"] = module
+    return modules
+
+
+def run():
+    modules = load_solution_modules()
+    if not modules:
+        print("No solution files found.")
+        sys.exit(1)
+
+    failures = 0
+    for name, module in modules.items():
+        for args, expected in TEST_CASES:
+            values, pos = args
+            result = module.solve(list(values), pos)
+            ok = result == expected
+            status = "PASS" if ok else "FAIL"
+            print(f"[{status}] {name}: solve({values}, {pos}) -> {result} (expected {expected})")
+            if not ok:
+                failures += 1
+
+    if failures:
+        print(f"{failures} test(s) failed")
+        sys.exit(1)
+    print("All tests passed.")
+
+
+if __name__ == "__main__":
+    run()

@@ -1,59 +1,59 @@
 {
-  "backtracking-engine": [
+  "backtracking_engine": [
     {
-      "id": "040-letter-combinations-of-a-phone-number",
+      "id": "q040_letter_combinations_of_a_phone_number",
       "title": "Letter Combinations of a Phone Number"
     },
     {
-      "id": "048-generate-parentheses",
+      "id": "q048_generate_parentheses",
       "title": "Generate Parentheses"
     },
     {
-      "id": "074-combination-sum",
+      "id": "q074_combination_sum",
       "title": "Combination Sum"
     },
     {
-      "id": "078-permutations",
+      "id": "q078_permutations",
       "title": "Permutations"
     }
   ],
-  "floyd-cycle-detection": [
+  "floyd_cycle_detection": [
     {
-      "id": "080-happy-number",
+      "id": "q080_happy_number",
       "title": "Happy Number"
     },
     {
-      "id": "087-linked-list-cycle",
+      "id": "q087_linked_list_cycle",
       "title": "Linked List Cycle"
     }
   ],
-  "kadane-running-extremes": [
+  "kadane_running_extremes": [
     {
-      "id": "011-maximum-subarray",
+      "id": "q011_maximum_subarray",
       "title": "Maximum Subarray"
     },
     {
-      "id": "098-maximum-product-subarray",
+      "id": "q098_maximum_product_subarray",
       "title": "Maximum Product Subarray"
     }
   ],
-  "monotonic-stack-next-element": [
+  "monotonic_stack_next_element": [
     {
-      "id": "065-largest-rectangle-in-histogram",
+      "id": "q065_largest_rectangle_in_histogram",
       "title": "Largest Rectangle in Histogram"
     },
     {
-      "id": "067-daily-temperatures",
+      "id": "q067_daily_temperatures",
       "title": "Daily Temperatures"
     }
   ],
-  "topological-sort-kahn": [
+  "topological_sort_kahn": [
     {
-      "id": "022-course-schedule",
+      "id": "q022_course_schedule",
       "title": "Course Schedule"
     },
     {
-      "id": "047-course-schedule-ii",
+      "id": "q047_course_schedule_ii",
       "title": "Course Schedule II"
     }
   ]

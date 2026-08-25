@@ -9,12 +9,17 @@ algorithm's shape and back.
 
 ```
 solutions/
+  __init__.py
   _meta/                      # the meta engine every technique instantiates
+    __init__.py
     algorithm.py              #   explore(seeds, transition, order)
     test_solutions.py         #   direct tests of the engine itself
-  <technique>/
+  <technique>/                # valid package name, e.g. backtracking_engine
+    __init__.py
     algorithm.py              # one general routine, built on _meta explore()
-    questions/<id>.py         # reshaper: question I/O -> algorithm shape -> back
+    questions/
+      __init__.py
+      q<id>.py                # reshaper: question I/O -> algorithm shape -> back
     test_solutions.py         # runs every reshaper against real test cases
   build_index.py              # scans this tree -> inverted_index.json
   inverted_index.json         # the computed index (generated, don't hand-edit)
@@ -47,11 +52,11 @@ Current instantiations:
 
 | technique | state | discipline | fold |
 |---|---|---|---|
-| backtracking-engine | (partial solution, is_complete) | LIFO | collect complete payloads |
-| topological-sort-kahn | ready node (stateful in-degree release) | FIFO | append in pop order |
-| kadane-running-extremes | index, carrying best-ending-here | chain | running max |
-| monotonic-stack-next-element | index, carrying a pending stack | chain | resolve dominated indices |
-| floyd-cycle-detection | (slow, fast) pointer pair | chain | first meeting pair |
+| backtracking_engine | (partial solution, is_complete) | LIFO | collect complete payloads |
+| topological_sort_kahn | ready node (stateful in-degree release) | FIFO | append in pop order |
+| kadane_running_extremes | index, carrying best-ending-here | chain | running max |
+| monotonic_stack_next_element | index, carrying a pending stack | chain | resolve dominated indices |
+| floyd_cycle_detection | (slow, fast) pointer pair | chain | first meeting pair |
 
 Families that slot straight in as more techniques get added:
 
@@ -75,7 +80,7 @@ linear one).
 Run one technique's tests:
 
 ```bash
-python solutions/backtracking-engine/test_solutions.py
+python solutions/backtracking_engine/test_solutions.py
 ```
 
 Run everything in this tree (the engine's own tests included):
@@ -92,10 +97,11 @@ python solutions/build_index.py
 
 ## Adding a question to the index
 
-1. Pick (or create) `solutions/<technique>/` with the general routine in
-   `algorithm.py` — expressed as an instantiation of `_meta` `explore()`.
-2. Add `questions/<rank>-<slug>.py` exposing `solve(...)` with the exact
-   same signature as that question's files in `questions/<rank>-<slug>/`,
+1. Pick (or create) `solutions/<technique>/` (a package — add `__init__.py`)
+   with the general routine in `algorithm.py` — expressed as an
+   instantiation of `_meta` `explore()`.
+2. Add `questions/q<rank>_<slug>.py` exposing `solve(...)` with the exact
+   same signature as that question's files in `questions/q<rank>_<slug>/`,
    reshaping in and out of the general routine.
 3. Add its cases to the technique's `test_solutions.py`, run it, then
    rerun `build_index.py`.

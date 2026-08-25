@@ -34,6 +34,7 @@ def build_index():
         question_ids = sorted(
             os.path.splitext(os.path.basename(p))[0]
             for p in glob.glob(questions_glob)
+            if os.path.basename(p) != "__init__.py"
         )
         if not question_ids:
             continue

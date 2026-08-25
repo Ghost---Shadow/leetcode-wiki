@@ -1,15 +1,18 @@
 """Direct tests for the _meta explore() engine itself (frontier disciplines
 and the degenerate single-successor chain), independent of any question.
 """
-import importlib.util
-import os
 import sys
+from pathlib import Path
 
-_here = os.path.dirname(os.path.abspath(__file__))
-_spec = importlib.util.spec_from_file_location("meta_algorithm", os.path.join(_here, "algorithm.py"))
-_meta = importlib.util.module_from_spec(_spec)
-_spec.loader.exec_module(_meta)
-explore = _meta.explore
+if __package__ in (None, ""):
+    import importlib
+    _file = Path(__file__).resolve()
+    _repo_root = _file.parents[2]
+    sys.path.insert(0, str(_repo_root))
+    __package__ = ".".join(_file.parent.relative_to(_repo_root).parts)
+    importlib.import_module(__package__)
+
+from .algorithm import explore
 
 CHILDREN = {0: [1, 2], 1: [3, 4], 2: [5, 6]}
 
