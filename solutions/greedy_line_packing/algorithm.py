@@ -11,14 +11,11 @@ def justify_lines(words, max_width):
     line. O(n) time overall (each word visited once), O(1) extra
     bookkeeping per line.
 
-    This is a genuine outlier among this repo's techniques: unlike the
-    shared graph-exploration engine other techniques instantiate, line
-    packing has no natural state-graph shape to explore -- it's a two-
-    level greedy grouping (pack a line, then pad it) with no meaningful
-    branching or backtracking. It's still expressed as one instantiation
-    of the shared _meta explore() engine for consistency: the degenerate
-    single-successor chain walking the starting index of each successive
-    line, folded into the list of finished, padded lines.
+    Instantiation of the shared _meta explore() engine: the degenerate
+    single-successor chain whose state is the starting index of each
+    successive line (greedy packing has no branching or backtracking, so
+    the graph is a pure chain), folded into the list of finished, padded
+    lines.
     """
     n = len(words)
 

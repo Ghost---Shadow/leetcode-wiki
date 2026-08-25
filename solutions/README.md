@@ -71,21 +71,26 @@ directly on `_meta.explore()`:
 | single_pass_accumulator_scan | item, carrying an accumulator | chain (FIFO) | final accumulator |
 | memoized_index_chain | index 0..n, memoized | chain | filled 1-D DP table |
 | memoized_two_index_dp | (i, j) in caller-supplied order, memoized | chain | filled 2-D DP table |
+| greedy_line_packing | line-start index | chain | collect packed + padded lines |
+| inplace_pointer_rewrite | pointer tuple (side-effecting transition) | chain | terminal pointer state |
+| matrix_ring_traversal | (top, bottom, left, right) ring boundaries | chain | stream of shrinking rings |
 
-Techniques with an honest standalone `algorithm.py` (the shared routine
-exists and is real, but doesn't reduce to `explore` — see "known outliers"
-below): `design_operation_log`, `greedy_line_packing`,
-`grid_constraint_check`, `heap_stream_state`, `inplace_pointer_rewrite`,
+That's 21 of the 28. The remaining 7 have an honest standalone
+`algorithm.py` (the shared routine exists and is real, but doesn't reduce
+to `explore` — see "known outliers" below): `design_operation_log`,
+`grid_constraint_check`, `heap_stream_state`,
 `inplace_write_pointer_compaction`, `linked_list_group_reversal`,
-`linked_list_pairwise_walk`, `matrix_ring_traversal`, `tree_recursion`.
+`linked_list_pairwise_walk`, `tree_recursion`.
 
 Known outliers that do **not** reduce naturally to `explore`: data-structure
 design / operation-log replay (state persists across calls, not unfolded
-from seeds), in-place array/pointer rewriting (sort colors, cyclic sort,
-matrix rotation — direct index manipulation, not a graph search), linked-list
-pointer surgery, and tree recursion that needs a combine-on-return
-("hylomorphism" fold) rather than a linear one. Union-find (state merging)
-never ended up needed by any of the 100 questions here.
+from seeds), in-place write-pointer compaction (move zeroes, string
+compression — a reader/writer pointer pair rewriting the array as a side
+effect of a plain scan), linked-list pointer surgery, one-shot constraint
+scans (valid sudoku), stream state maintained across heap pushes and pops
+(find median from a stream), and tree recursion that needs a
+combine-on-return (tree-shaped fold) rather than a linear one. Union-find
+(state merging) never ended up needed by any of the 100 questions here.
 
 ## Commands
 
