@@ -48,7 +48,8 @@ A technique is a choice of four knobs:
 | transition | the branching rules; owns pruning, dedup and **memoization** (explore keeps no visited set on purpose) |
 | fold | collect / running max / first-hit / append-in-order |
 
-Current instantiations:
+All 100 questions are covered across 28 techniques. Instantiations built
+directly on `_meta.explore()`:
 
 | technique | state | discipline | fold |
 |---|---|---|---|
@@ -57,23 +58,34 @@ Current instantiations:
 | kadane_running_extremes | index, carrying best-ending-here | chain | running max |
 | monotonic_stack_next_element | index, carrying a pending stack | chain | resolve dominated indices |
 | floyd_cycle_detection | (slow, fast) pointer pair | chain | first meeting pair |
+| grid_bfs | grid/graph node | FIFO | layer count / component count |
+| heap_priority | arbitrary, ranked by a priority key | priority | drain in best-first order |
+| binary_search_on_answer | shrinking (lo, hi) interval | chain | converged bound |
+| sliding_window | index, carrying window bookkeeping | chain | emitted-value stream |
+| two_pointer_converge | (left, right) pointer pair | chain | values seen while converging |
+| linear_fold_scan | item, carrying an accumulator | chain | final accumulator |
+| hashmap_lookup | item, carrying a hashmap | chain | early-exit or full table |
+| hashmap_indexed_scan | index/seed, carrying running state | chain | running sum / longest chain |
+| interval_sweep | sorted item, carrying a fold state | chain | merged intervals / DP table |
+| stack_scan_fold | item, carrying an explicit stack | chain | final stack / derived value |
+| single_pass_accumulator_scan | item, carrying an accumulator | chain (FIFO) | final accumulator |
+| memoized_index_chain | index 0..n, memoized | chain | filled 1-D DP table |
+| memoized_two_index_dp | (i, j) in caller-supplied order, memoized | chain | filled 2-D DP table |
 
-Families that slot straight in as more techniques get added:
+Techniques with an honest standalone `algorithm.py` (the shared routine
+exists and is real, but doesn't reduce to `explore` — see "known outliers"
+below): `design_operation_log`, `greedy_line_packing`,
+`grid_constraint_check`, `heap_stream_state`, `inplace_pointer_rewrite`,
+`inplace_write_pointer_compaction`, `linked_list_group_reversal`,
+`linked_list_pairwise_walk`, `matrix_ring_traversal`, `tree_recursion`.
 
-- **sliding window / two pointers / binary-search-on-answer** — chains whose
-  state is a window or a shrinking interval;
-- **grid/word BFS** (rotting oranges, word ladder, shortest paths) — FIFO;
-- **heap problems** (merge k lists, top-k, meeting rooms) — the `priority`
-  discipline, already implemented in the engine and waiting;
-- **memoized DP** — same graphs as the brute forces, but the transition
-  deduplicates states. The difference between a question's
-  `brute_force.py` and `optimal.py` is very often *only* this knob: same
-  state shape, same fold, smarter transition.
-
-Known outliers that do **not** reduce naturally: union-find (state merging
-rather than traversal), in-place partitioning (sort colors), and the
-"combine" half of divide-and-conquer (needs a tree-shaped fold, not a
-linear one).
+Known outliers that do **not** reduce naturally to `explore`: data-structure
+design / operation-log replay (state persists across calls, not unfolded
+from seeds), in-place array/pointer rewriting (sort colors, cyclic sort,
+matrix rotation — direct index manipulation, not a graph search), linked-list
+pointer surgery, and tree recursion that needs a combine-on-return
+("hylomorphism" fold) rather than a linear one. Union-find (state merging)
+never ended up needed by any of the 100 questions here.
 
 ## Commands
 

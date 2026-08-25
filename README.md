@@ -45,3 +45,10 @@ Recompute `solutions/inverted_index.json` with:
 ```bash
 python solutions/build_index.py
 ```
+
+All 100 questions are currently covered by some technique. Track coverage
+(and regenerate `solutions/COVERAGE.md`) with:
+
+```bash
+python solutions/find_uncovered.py
+```

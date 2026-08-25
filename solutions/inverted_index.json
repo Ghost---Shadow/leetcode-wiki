@@ -5,6 +5,10 @@
       "title": "Letter Combinations of a Phone Number"
     },
     {
+      "id": "q044_word_search",
+      "title": "Word Search"
+    },
+    {
       "id": "q048_generate_parentheses",
       "title": "Generate Parentheses"
     },
@@ -17,6 +21,66 @@
       "title": "Permutations"
     }
   ],
+  "binary_search_on_answer": [
+    {
+      "id": "q018_search_in_rotated_sorted_array",
+      "title": "Search in Rotated Sorted Array"
+    },
+    {
+      "id": "q021_median_of_two_sorted_arrays",
+      "title": "Median of Two Sorted Arrays"
+    },
+    {
+      "id": "q025_koko_eating_bananas",
+      "title": "Koko Eating Bananas"
+    },
+    {
+      "id": "q059_find_peak_element",
+      "title": "Find Peak Element"
+    },
+    {
+      "id": "q064_find_first_and_last_position_of_element_in_sorted_array",
+      "title": "Find First and Last Position of Element in Sorted Array"
+    }
+  ],
+  "design_operation_log": [
+    {
+      "id": "q002_lru_cache",
+      "title": "LRU Cache"
+    },
+    {
+      "id": "q034_insert_delete_getrandom_o_1",
+      "title": "Insert Delete GetRandom O(1)"
+    },
+    {
+      "id": "q036_min_stack",
+      "title": "Min Stack"
+    },
+    {
+      "id": "q055_lfu_cache",
+      "title": "LFU Cache"
+    },
+    {
+      "id": "q057_time_based_key_value_store",
+      "title": "Time Based Key-Value Store"
+    },
+    {
+      "id": "q083_random_pick_with_weight",
+      "title": "Random Pick with Weight"
+    },
+    {
+      "id": "q084_design_hit_counter",
+      "title": "Design Hit Counter"
+    },
+    {
+      "id": "q091_logger_rate_limiter",
+      "title": "Logger Rate Limiter"
+    },
+    {
+      "id": "q099_design_circular_queue",
+      "title": "Design Circular Queue"
+    }
+  ],
   "floyd_cycle_detection": [
     {
       "id": "q080_happy_number",
@@ -27,14 +91,258 @@
       "title": "Linked List Cycle"
     }
   ],
+  "greedy_line_packing": [
+    {
+      "id": "q046_text_justification",
+      "title": "Text Justification"
+    }
+  ],
+  "grid_bfs": [
+    {
+      "id": "q007_number_of_islands",
+      "title": "Number of Islands"
+    },
+    {
+      "id": "q014_rotting_oranges",
+      "title": "Rotting Oranges"
+    },
+    {
+      "id": "q032_word_ladder",
+      "title": "Word Ladder"
+    },
+    {
+      "id": "q093_evaluate_division",
+      "title": "Evaluate Division"
+    }
+  ],
+  "grid_constraint_check": [
+    {
+      "id": "q081_valid_sudoku",
+      "title": "Valid Sudoku"
+    }
+  ],
+  "hashmap_indexed_scan": [
+    {
+      "id": "q024_subarray_sum_equals_k",
+      "title": "Subarray Sum Equals K"
+    },
+    {
+      "id": "q029_longest_consecutive_sequence",
+      "title": "Longest Consecutive Sequence"
+    }
+  ],
+  "hashmap_lookup": [
+    {
+      "id": "q001_two_sum",
+      "title": "Two Sum"
+    },
+    {
+      "id": "q008_group_anagrams",
+      "title": "Group Anagrams"
+    },
+    {
+      "id": "q031_valid_anagram",
+      "title": "Valid Anagram"
+    }
+  ],
+  "heap_priority": [
+    {
+      "id": "q015_top_k_frequent_elements",
+      "title": "Top K Frequent Elements"
+    },
+    {
+      "id": "q017_merge_k_sorted_lists",
+      "title": "Merge k Sorted Lists"
+    },
+    {
+      "id": "q026_meeting_rooms_ii",
+      "title": "Meeting Rooms II"
+    },
+    {
+      "id": "q027_kth_largest_element_in_an_array",
+      "title": "Kth Largest Element in an Array"
+    }
+  ],
+  "heap_stream_state": [
+    {
+      "id": "q023_find_median_from_data_stream",
+      "title": "Find Median from Data Stream"
+    },
+    {
+      "id": "q090_task_scheduler",
+      "title": "Task Scheduler"
+    }
+  ],
+  "inplace_pointer_rewrite": [
+    {
+      "id": "q039_sort_colors",
+      "title": "Sort Colors"
+    },
+    {
+      "id": "q058_next_permutation",
+      "title": "Next Permutation"
+    },
+    {
+      "id": "q062_first_missing_positive",
+      "title": "First Missing Positive"
+    },
+    {
+      "id": "q070_rotate_array",
+      "title": "Rotate Array"
+    }
+  ],
+  "inplace_write_pointer_compaction": [
+    {
+      "id": "q030_move_zeroes",
+      "title": "Move Zeroes"
+    },
+    {
+      "id": "q035_string_compression",
+      "title": "String Compression"
+    }
+  ],
+  "interval_sweep": [
+    {
+      "id": "q003_merge_intervals",
+      "title": "Merge Intervals"
+    },
+    {
+      "id": "q096_maximum_profit_in_job_scheduling",
+      "title": "Maximum Profit in Job Scheduling"
+    }
+  ],
   "kadane_running_extremes": [
+    {
+      "id": "q006_best_time_to_buy_and_sell_stock",
+      "title": "Best Time to Buy and Sell Stock"
+    },
     {
       "id": "q011_maximum_subarray",
       "title": "Maximum Subarray"
     },
     {
+      "id": "q063_best_time_to_buy_and_sell_stock_ii",
+      "title": "Best Time to Buy and Sell Stock II"
+    },
+    {
+      "id": "q071_gas_station",
+      "title": "Gas Station"
+    },
+    {
       "id": "q098_maximum_product_subarray",
       "title": "Maximum Product Subarray"
+    }
+  ],
+  "linear_fold_scan": [
+    {
+      "id": "q013_longest_common_prefix",
+      "title": "Longest Common Prefix"
+    },
+    {
+      "id": "q042_roman_to_integer",
+      "title": "Roman to Integer"
+    },
+    {
+      "id": "q060_palindrome_number",
+      "title": "Palindrome Number"
+    },
+    {
+      "id": "q061_integer_to_roman",
+      "title": "Integer to Roman"
+    },
+    {
+      "id": "q075_reverse_words_in_a_string",
+      "title": "Reverse Words in a String"
+    },
+    {
+      "id": "q089_first_unique_character_in_a_string",
+      "title": "First Unique Character in a String"
+    }
+  ],
+  "linked_list_group_reversal": [
+    {
+      "id": "q052_reverse_linked_list",
+      "title": "Reverse Linked List"
+    },
+    {
+      "id": "q073_reverse_nodes_in_k_group",
+      "title": "Reverse Nodes in k-Group"
+    }
+  ],
+  "linked_list_pairwise_walk": [
+    {
+      "id": "q038_merge_two_sorted_lists",
+      "title": "Merge Two Sorted Lists"
+    },
+    {
+      "id": "q045_add_two_numbers",
+      "title": "Add Two Numbers"
+    }
+  ],
+  "matrix_ring_traversal": [
+    {
+      "id": "q019_spiral_matrix",
+      "title": "Spiral Matrix"
+    },
+    {
+      "id": "q054_rotate_image",
+      "title": "Rotate Image"
+    }
+  ],
+  "memoized_index_chain": [
+    {
+      "id": "q033_coin_change",
+      "title": "Coin Change"
+    },
+    {
+      "id": "q043_house_robber",
+      "title": "House Robber"
+    },
+    {
+      "id": "q049_climbing_stairs",
+      "title": "Climbing Stairs"
+    },
+    {
+      "id": "q056_jump_game",
+      "title": "Jump Game"
+    },
+    {
+      "id": "q066_longest_increasing_subsequence",
+      "title": "Longest Increasing Subsequence"
+    },
+    {
+      "id": "q068_word_break",
+      "title": "Word Break"
+    },
+    {
+      "id": "q076_longest_valid_parentheses",
+      "title": "Longest Valid Parentheses"
+    },
+    {
+      "id": "q079_jump_game_ii",
+      "title": "Jump Game II"
+    }
+  ],
+  "memoized_two_index_dp": [
+    {
+      "id": "q009_longest_palindromic_substring",
+      "title": "Longest Palindromic Substring"
+    },
+    {
+      "id": "q072_maximal_square",
+      "title": "Maximal Square"
+    },
+    {
+      "id": "q077_palindromic_substrings",
+      "title": "Palindromic Substrings"
+    },
+    {
+      "id": "q088_edit_distance",
+      "title": "Edit Distance"
+    },
+    {
+      "id": "q094_regular_expression_matching",
+      "title": "Regular Expression Matching"
     }
   ],
   "monotonic_stack_next_element": [
@@ -47,6 +355,64 @@
       "title": "Daily Temperatures"
     }
   ],
+  "single_pass_accumulator_scan": [
+    {
+      "id": "q050_product_of_array_except_self",
+      "title": "Product of Array Except Self"
+    },
+    {
+      "id": "q053_merge_sorted_array",
+      "title": "Merge Sorted Array"
+    },
+    {
+      "id": "q082_majority_element",
+      "title": "Majority Element"
+    },
+    {
+      "id": "q086_remove_duplicates_from_sorted_array",
+      "title": "Remove Duplicates from Sorted Array"
+    }
+  ],
+  "sliding_window": [
+    {
+      "id": "q005_longest_substring_without_repeating_characters",
+      "title": "Longest Substring Without Repeating Characters"
+    },
+    {
+      "id": "q020_sliding_window_maximum",
+      "title": "Sliding Window Maximum"
+    },
+    {
+      "id": "q041_minimum_window_substring",
+      "title": "Minimum Window Substring"
+    }
+  ],
+  "stack_scan_fold": [
+    {
+      "id": "q004_valid_parentheses",
+      "title": "Valid Parentheses"
+    },
+    {
+      "id": "q028_decode_string",
+      "title": "Decode String"
+    },
+    {
+      "id": "q051_asteroid_collision",
+      "title": "Asteroid Collision"
+    },
+    {
+      "id": "q069_basic_calculator_ii",
+      "title": "Basic Calculator II"
+    },
+    {
+      "id": "q095_simplify_path",
+      "title": "Simplify Path"
+    },
+    {
+      "id": "q100_basic_calculator",
+      "title": "Basic Calculator"
+    }
+  ],
   "topological_sort_kahn": [
     {
       "id": "q022_course_schedule",
@@ -55,6 +421,38 @@
     {
       "id": "q047_course_schedule_ii",
       "title": "Course Schedule II"
+    }
+  ],
+  "tree_recursion": [
+    {
+      "id": "q085_binary_tree_maximum_path_sum",
+      "title": "Binary Tree Maximum Path Sum"
+    },
+    {
+      "id": "q092_lowest_common_ancestor_of_a_binary_tree",
+      "title": "Lowest Common Ancestor of a Binary Tree"
+    },
+    {
+      "id": "q097_serialize_and_deserialize_binary_tree",
+      "title": "Serialize and Deserialize Binary Tree"
+    }
+  ],
+  "two_pointer_converge": [
+    {
+      "id": "q010_trapping_rain_water",
+      "title": "Trapping Rain Water"
+    },
+    {
+      "id": "q012_container_with_most_water",
+      "title": "Container With Most Water"
+    },
+    {
+      "id": "q016_3sum",
+      "title": "3Sum"
+    },
+    {
+      "id": "q037_valid_palindrome",
+      "title": "Valid Palindrome"
     }
   ]
 }

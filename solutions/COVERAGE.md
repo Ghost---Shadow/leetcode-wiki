@@ -1,0 +1,111 @@
+# Coverage: solutions/ techniques vs. questions/
+
+**100/100 covered, 0 uncovered.**
+
+Regenerate with `python solutions/build_index.py && python solutions/find_uncovered.py`.
+
+## Covered
+
+- [x] q001_two_sum: Two Sum -- `hashmap_lookup`
+- [x] q002_lru_cache: LRU Cache -- `design_operation_log`
+- [x] q003_merge_intervals: Merge Intervals -- `interval_sweep`
+- [x] q004_valid_parentheses: Valid Parentheses -- `stack_scan_fold`
+- [x] q005_longest_substring_without_repeating_characters: Longest Substring Without Repeating Characters -- `sliding_window`
+- [x] q006_best_time_to_buy_and_sell_stock: Best Time to Buy and Sell Stock -- `kadane_running_extremes`
+- [x] q007_number_of_islands: Number of Islands -- `grid_bfs`
+- [x] q008_group_anagrams: Group Anagrams -- `hashmap_lookup`
+- [x] q009_longest_palindromic_substring: Longest Palindromic Substring -- `memoized_two_index_dp`
+- [x] q010_trapping_rain_water: Trapping Rain Water -- `two_pointer_converge`
+- [x] q011_maximum_subarray: Maximum Subarray -- `kadane_running_extremes`
+- [x] q012_container_with_most_water: Container With Most Water -- `two_pointer_converge`
+- [x] q013_longest_common_prefix: Longest Common Prefix -- `linear_fold_scan`
+- [x] q014_rotting_oranges: Rotting Oranges -- `grid_bfs`
+- [x] q015_top_k_frequent_elements: Top K Frequent Elements -- `heap_priority`
+- [x] q016_3sum: 3Sum -- `two_pointer_converge`
+- [x] q017_merge_k_sorted_lists: Merge k Sorted Lists -- `heap_priority`
+- [x] q018_search_in_rotated_sorted_array: Search in Rotated Sorted Array -- `binary_search_on_answer`
+- [x] q019_spiral_matrix: Spiral Matrix -- `matrix_ring_traversal`
+- [x] q020_sliding_window_maximum: Sliding Window Maximum -- `sliding_window`
+- [x] q021_median_of_two_sorted_arrays: Median of Two Sorted Arrays -- `binary_search_on_answer`
+- [x] q022_course_schedule: Course Schedule -- `topological_sort_kahn`
+- [x] q023_find_median_from_data_stream: Find Median from Data Stream -- `heap_stream_state`
+- [x] q024_subarray_sum_equals_k: Subarray Sum Equals K -- `hashmap_indexed_scan`
+- [x] q025_koko_eating_bananas: Koko Eating Bananas -- `binary_search_on_answer`
+- [x] q026_meeting_rooms_ii: Meeting Rooms II -- `heap_priority`
+- [x] q027_kth_largest_element_in_an_array: Kth Largest Element in an Array -- `heap_priority`
+- [x] q028_decode_string: Decode String -- `stack_scan_fold`
+- [x] q029_longest_consecutive_sequence: Longest Consecutive Sequence -- `hashmap_indexed_scan`
+- [x] q030_move_zeroes: Move Zeroes -- `inplace_write_pointer_compaction`
+- [x] q031_valid_anagram: Valid Anagram -- `hashmap_lookup`
+- [x] q032_word_ladder: Word Ladder -- `grid_bfs`
+- [x] q033_coin_change: Coin Change -- `memoized_index_chain`
+- [x] q034_insert_delete_getrandom_o_1: Insert Delete GetRandom O(1) -- `design_operation_log`
+- [x] q035_string_compression: String Compression -- `inplace_write_pointer_compaction`
+- [x] q036_min_stack: Min Stack -- `design_operation_log`
+- [x] q037_valid_palindrome: Valid Palindrome -- `two_pointer_converge`
+- [x] q038_merge_two_sorted_lists: Merge Two Sorted Lists -- `linked_list_pairwise_walk`
+- [x] q039_sort_colors: Sort Colors -- `inplace_pointer_rewrite`
+- [x] q040_letter_combinations_of_a_phone_number: Letter Combinations of a Phone Number -- `backtracking_engine`
+- [x] q041_minimum_window_substring: Minimum Window Substring -- `sliding_window`
+- [x] q042_roman_to_integer: Roman to Integer -- `linear_fold_scan`
+- [x] q043_house_robber: House Robber -- `memoized_index_chain`
+- [x] q044_word_search: Word Search -- `backtracking_engine`
+- [x] q045_add_two_numbers: Add Two Numbers -- `linked_list_pairwise_walk`
+- [x] q046_text_justification: Text Justification -- `greedy_line_packing`
+- [x] q047_course_schedule_ii: Course Schedule II -- `topological_sort_kahn`
+- [x] q048_generate_parentheses: Generate Parentheses -- `backtracking_engine`
+- [x] q049_climbing_stairs: Climbing Stairs -- `memoized_index_chain`
+- [x] q050_product_of_array_except_self: Product of Array Except Self -- `single_pass_accumulator_scan`
+- [x] q051_asteroid_collision: Asteroid Collision -- `stack_scan_fold`
+- [x] q052_reverse_linked_list: Reverse Linked List -- `linked_list_group_reversal`
+- [x] q053_merge_sorted_array: Merge Sorted Array -- `single_pass_accumulator_scan`
+- [x] q054_rotate_image: Rotate Image -- `matrix_ring_traversal`
+- [x] q055_lfu_cache: LFU Cache -- `design_operation_log`
+- [x] q056_jump_game: Jump Game -- `memoized_index_chain`
+- [x] q057_time_based_key_value_store: Time Based Key-Value Store -- `design_operation_log`
+- [x] q058_next_permutation: Next Permutation -- `inplace_pointer_rewrite`
+- [x] q059_find_peak_element: Find Peak Element -- `binary_search_on_answer`
+- [x] q060_palindrome_number: Palindrome Number -- `linear_fold_scan`
+- [x] q061_integer_to_roman: Integer to Roman -- `linear_fold_scan`
+- [x] q062_first_missing_positive: First Missing Positive -- `inplace_pointer_rewrite`
+- [x] q063_best_time_to_buy_and_sell_stock_ii: Best Time to Buy and Sell Stock II -- `kadane_running_extremes`
+- [x] q064_find_first_and_last_position_of_element_in_sorted_array: Find First and Last Position of Element in Sorted Array -- `binary_search_on_answer`
+- [x] q065_largest_rectangle_in_histogram: Largest Rectangle in Histogram -- `monotonic_stack_next_element`
+- [x] q066_longest_increasing_subsequence: Longest Increasing Subsequence -- `memoized_index_chain`
+- [x] q067_daily_temperatures: Daily Temperatures -- `monotonic_stack_next_element`
+- [x] q068_word_break: Word Break -- `memoized_index_chain`
+- [x] q069_basic_calculator_ii: Basic Calculator II -- `stack_scan_fold`
+- [x] q070_rotate_array: Rotate Array -- `inplace_pointer_rewrite`
+- [x] q071_gas_station: Gas Station -- `kadane_running_extremes`
+- [x] q072_maximal_square: Maximal Square -- `memoized_two_index_dp`
+- [x] q073_reverse_nodes_in_k_group: Reverse Nodes in k-Group -- `linked_list_group_reversal`
+- [x] q074_combination_sum: Combination Sum -- `backtracking_engine`
+- [x] q075_reverse_words_in_a_string: Reverse Words in a String -- `linear_fold_scan`
+- [x] q076_longest_valid_parentheses: Longest Valid Parentheses -- `memoized_index_chain`
+- [x] q077_palindromic_substrings: Palindromic Substrings -- `memoized_two_index_dp`
+- [x] q078_permutations: Permutations -- `backtracking_engine`
+- [x] q079_jump_game_ii: Jump Game II -- `memoized_index_chain`
+- [x] q080_happy_number: Happy Number -- `floyd_cycle_detection`
+- [x] q081_valid_sudoku: Valid Sudoku -- `grid_constraint_check`
+- [x] q082_majority_element: Majority Element -- `single_pass_accumulator_scan`
+- [x] q083_random_pick_with_weight: Random Pick with Weight -- `design_operation_log`
+- [x] q084_design_hit_counter: Design Hit Counter -- `design_operation_log`
+- [x] q085_binary_tree_maximum_path_sum: Binary Tree Maximum Path Sum -- `tree_recursion`
+- [x] q086_remove_duplicates_from_sorted_array: Remove Duplicates from Sorted Array -- `single_pass_accumulator_scan`
+- [x] q087_linked_list_cycle: Linked List Cycle -- `floyd_cycle_detection`
+- [x] q088_edit_distance: Edit Distance -- `memoized_two_index_dp`
+- [x] q089_first_unique_character_in_a_string: First Unique Character in a String -- `linear_fold_scan`
+- [x] q090_task_scheduler: Task Scheduler -- `heap_stream_state`
+- [x] q091_logger_rate_limiter: Logger Rate Limiter -- `design_operation_log`
+- [x] q092_lowest_common_ancestor_of_a_binary_tree: Lowest Common Ancestor of a Binary Tree -- `tree_recursion`
+- [x] q093_evaluate_division: Evaluate Division -- `grid_bfs`
+- [x] q094_regular_expression_matching: Regular Expression Matching -- `memoized_two_index_dp`
+- [x] q095_simplify_path: Simplify Path -- `stack_scan_fold`
+- [x] q096_maximum_profit_in_job_scheduling: Maximum Profit in Job Scheduling -- `interval_sweep`
+- [x] q097_serialize_and_deserialize_binary_tree: Serialize and Deserialize Binary Tree -- `tree_recursion`
+- [x] q098_maximum_product_subarray: Maximum Product Subarray -- `kadane_running_extremes`
+- [x] q099_design_circular_queue: Design Circular Queue -- `design_operation_log`
+- [x] q100_basic_calculator: Basic Calculator -- `stack_scan_fold`
+
+## Uncovered
+

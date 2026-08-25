@@ -31,6 +31,41 @@ TEST_CASES = {
         (([1, 2, 3],), [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]]),
         (([0, 1],), [[0, 1], [1, 0]]),
     ],
+    "q044_word_search.py": [
+        (
+            (
+                [
+                    list("ABCE"),
+                    list("SFCS"),
+                    list("ADEE"),
+                ],
+                "ABCCED",
+            ),
+            True,
+        ),
+        (
+            (
+                [
+                    list("ABCE"),
+                    list("SFCS"),
+                    list("ADEE"),
+                ],
+                "SEE",
+            ),
+            True,
+        ),
+        (
+            (
+                [
+                    list("ABCE"),
+                    list("SFCS"),
+                    list("ADEE"),
+                ],
+                "ABCB",
+            ),
+            False,
+        ),
+    ],
 }
 
 
@@ -59,7 +94,10 @@ def run():
     for name, module in modules.items():
         for args, expected in TEST_CASES.get(name, []):
             result = module.solve(*args)
-            ok = normalize(result) == normalize(expected)
+            if isinstance(expected, list):
+                ok = normalize(result) == normalize(expected)
+            else:
+                ok = result == expected
             status = "PASS" if ok else "FAIL"
             print(f"[{status}] {name}: solve{args} -> {result} (expected {expected})")
             if not ok:
